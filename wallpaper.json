@@ -38,9 +38,22 @@
     }
   ],
   "Wallpaper": [
-    
     {
-      "id": 10,
+      "id": 7,
+      "name_category": "Nature",
+      "wallpaper_name": "CHAINSAWMAN",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://youtu.be/cjUNfZ-m6cI"
+    },
+    {
+      "id": 8,
+      "name_category": "Nature",
+      "wallpaper_name": "CHAINSAWMAN",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://www.youtube.com/embed/cjUNfZ-m6cI"
+    },
+    {
+      "id": 9,
       "name_category": "Nature",
       "wallpaper_name": "CHAINSAWMAN",
       "wallpaper_type": "MP4",

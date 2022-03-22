@@ -1,15 +1,15 @@
 {
   "Ads": [
     {
-      "select_main_ads": "",
-      "select_backup_ads":"",
-      "main_ads_banner": "",
-      "main_ads_intertitial":"",
-      "backup_ads_banner":"",
-      "backup_ads_intertitial":"",
-      "interval_intertitial": 5,
-      "initialize_sdk":"107355779",
-      "initialize_sdk_backup_ads":"",
+      "select_main_ads": "APPLOVIN-D",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "cadba0dcf71327db",
+      "main_ads_intertitial":"9e0e6897691b1cdf",
+      "backup_ads_banner":"cadba0dcf71327db",
+      "backup_ads_intertitial":"9e0e6897691b1cdf",
+      "interval_intertitial": 3,
+      "initialize_sdk":"inN7BceTpUoEsTiRT9mZUW-4Wbty5zRmF-Uz6tKDTL-Cg3QfRCZ--W3hU2f0C9ouBHyhXqAIXT_BRnGCE0WdTz",
+      "initialize_sdk_backup_ads":"inN7BceTpUoEsTiRT9mZUW-4Wbty5zRmF-Uz6tKDTL-Cg3QfRCZ--W3hU2f0C9ouBHyhXqAIXT_BRnGCE0WdTz",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
       "high_paying_keyword_3": "",
@@ -21,64 +21,442 @@
   ],
   "Categories": [
     {
-      "name_category": "Super Car",
-      "wallpaper_url": "category/supercar.jpeg"
+      "name_category": "New",
+      "wallpaper_url": "category/new.png"
     },
     {
-      "name_category": "Nature",
-      "wallpaper_url": "category/beach.jpeg"
+      "name_category": "Best",
+      "wallpaper_url": "category/best.png"
     },
     {
-      "name_category": "Animals",
-      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=699454yDaQwbM6cNFuAT2cLejZ9-8hNPCilhXUDC9RjnsxEomMMUiJ_ZpnUu_SORL_qK1pm49PI6nonSPX3bF06xXQWnjdIs4a8UPq3Hpr5JtlN5V3IdBar9_eEeEdua-3i1rIX0hnB54BKjNhuk6EsbkdeZmaDs6zNCoAX2H3tWTBbjEbdZXKeYj7_Ls_oVkwVF3AGaTz9Fuv9d"
+      "name_category": "Favorite",
+      "wallpaper_url": "category/favorite.png"
     },
     {
-      "name_category": "Vector",
-      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=lr5CZ8vkX8mvjvXbpIVA0gcZMfLgYswISSgsryq98ECBMq9u1FHVjCrkzcZFGbyRxqjVrmSAJ3cbXMMqZ8EW7L6odYaD5hOGkbrahr5CCknShcLO_hglg30_tBwSdWKrnhMkdRt23UhJnDQBBfHmRmuw1jpYj0dFGRCK3BbCfI9t2YyPGEqLKgP194EV1YORZwyo0q2vTRKQtgSl"
+      "name_category": "Trending",
+      "wallpaper_url": "category/trending.png"
     }
   ],
   "Wallpaper": [
     {
+      "id": 1,
+      "name_category": "New",
+      "wallpaper_name": "Paralax 1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "image/brawlfans1.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Best",
+      "wallpaper_name": "Paralax 2",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "image/brawlfans2.jpg"
+    },
+    {
+      "id": 3,
+      "name_category": "Favorite",
+      "wallpaper_name": "Paralax 3",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "image/brawlfans3.jpg"
+    },
+    {
+      "id": 4,
+      "name_category": "Trending",
+      "wallpaper_name": "Paralax 4",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "image/brawlfans4.jpg"
+    },
+    {
+      "id": 5,
+      "name_category": "New",
+      "wallpaper_name": "Paralax 5",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "image/brawlfans5.jpg"
+    },
+    {
+      "id": 6,
+      "name_category": "Best",
+      "wallpaper_name": "Paralax 6",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "image/brawlfans6.jpg"
+    },
+    {
       "id": 7,
-      "name_category": "Nature",
-      "wallpaper_name": "CHAINSAWMAN",
-      "wallpaper_type": "MP4",
-      "wallpaper_url": "https://usaupload.com/6bWr/alwpchainsaw_(1).mp4"
+      "name_category": "Favorite",
+      "wallpaper_name": "Paralax 7",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "image/brawlfans7.jpg"
     },
     {
       "id": 8,
-      "name_category": "Nature",
-      "wallpaper_name": "CHAINSAWMAN",
-      "wallpaper_type": "MP4",
-      "wallpaper_url": "http://file.lu/d/SyZ]alwpchainsaw_(1).mp4"
+      "name_category": "Trending",
+      "wallpaper_name": "Paralax 8",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "image/brawlfans8.jpg"
     },
     {
       "id": 9,
-      "name_category": "Nature",
-      "wallpaper_name": "CHAINSAWMAN",
-      "wallpaper_type": "MP4",
-      "wallpaper_url": "https://www.blogger.com/video.g?token=AD6v5dyJEueubMiWWJk2_LTt72LHUeMuYek9Eqb-13v2rabVvijphPFpS51vHMDaTJLuPDdUpFeacN3iVnqHAcH1Bktcl8SxJ2LO5IGnUh6fqBSSzkqJ5FEsdeWv0boFz8R2YFFi8yTv"
+      "name_category": "New",
+      "wallpaper_name": "Paralax 9",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "image/brawlfans9.jpg"
     },
     {
       "id": 10,
-      "name_category": "Animals",
-      "wallpaper_name": "CHAINSAWMAN",
-      "wallpaper_type": "MP4",
-      "wallpaper_url": "video/alwpchainsaw (1).mp4"
+      "name_category": "Best",
+      "wallpaper_name": "Paralax 10",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "image/brawlfans10.jpg"
     },
     {
       "id": 11,
-      "name_category": "Vector",
-      "wallpaper_name": "CHAINSAWMAN",
-      "wallpaper_type": "MP4",
-      "wallpaper_url": "video/alwpchainsaw(2).mp4"
+      "name_category": "Favorite",
+      "wallpaper_name": "Paralax 11",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "image/brawlfans11.jpg"
     },
     {
       "id": 12,
-      "name_category": "Nature",
-      "wallpaper_name": "CHAINSAWMAN",
+      "name_category": "Trending",
+      "wallpaper_name": "Paralax 12",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "image/brawlfans12.jpg"
+    },
+    {
+      "id": 13,
+      "name_category": "New",
+      "wallpaper_name": "Paralax 13",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "image/brawlfans13.jpg"
+    },
+    {
+      "id": 14,
+      "name_category": "Best",
+      "wallpaper_name": "Paralax 14",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "image/brawlfans14.jpg"
+    },
+    {
+      "id": 15,
+      "name_category": "Favorite",
+      "wallpaper_name": "Paralax 15",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "image/brawlfans15.jpg"
+    },
+    {
+      "id": 16,
+      "name_category": "Trending",
+      "wallpaper_name": "Paralax 16",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "image/brawlfans16.jpg"
+    },
+    {
+      "id": 17,
+      "name_category": "New",
+      "wallpaper_name": "Paralax 17",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "image/brawlfans17.jpg"
+    },
+    {
+      "id": 18,
+      "name_category": "Best",
+      "wallpaper_name": "Paralax 18",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "image/brawlfans18.jpg"
+    },
+    {
+      "id": 19,
+      "name_category": "Favorite",
+      "wallpaper_name": "Paralax 19",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "image/brawlfans19.jpg"
+    },
+    {
+      "id": 20,
+      "name_category": "Trending",
+      "wallpaper_name": "Paralax 20",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "image/brawlfans20.jpg"
+    },
+    {
+      "id": 21,
+      "name_category": "New",
+      "wallpaper_name": "Paralax 21",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "image/brawlfans21.jpg"
+    },
+    {
+      "id": 22,
+      "name_category": "Best",
+      "wallpaper_name": "Paralax 22",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "image/brawlfans22.jpg"
+    },
+    {
+      "id": 23,
+      "name_category": "Favorite",
+      "wallpaper_name": "Paralax 23",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "image/brawlfans23.jpg"
+    },
+    {
+      "id": 24,
+      "name_category": "Trending",
+      "wallpaper_name": "Paralax 24",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "image/brawlfans24.jpg"
+    },
+    {
+      "id": 25,
+      "name_category": "New",
+      "wallpaper_name": "Paralax 25",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "image/brawlfans25.jpg"
+    },
+    {
+      "id": 26,
+      "name_category": "Best",
+      "wallpaper_name": "Paralax 26",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "image/brawlfans26.jpg"
+    },
+    {
+      "id": 27,
+      "name_category": "Favorite",
+      "wallpaper_name": "Paralax 27",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "image/brawlfans27.jpg"
+    },
+    {
+      "id": 28,
+      "name_category": "Trending",
+      "wallpaper_name": "Paralax 28",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "image/brawlfans28.jpg"
+    },
+    {
+      "id": 29,
+      "name_category": "New",
+      "wallpaper_name": "Paralax 29",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "image/brawlfans29.jpg"
+    },
+    {
+      "id": 30,
+      "name_category": "Best",
+      "wallpaper_name": "Paralax 30",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "image/brawlfans30.jpg"
+    },
+    {
+      "id": 31,
+      "name_category": "New",
+      "wallpaper_name": "Live Wallpaper 1",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "video/alwpchainsaw1.mp4"
+    },
+    {
+      "id": 32,
+      "name_category": "Best",
+      "wallpaper_name": "Live Wallpaper 2",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "video/alwpchainsaw2.mp4"
+    },
+    {
+      "id": 33,
+      "name_category": "Favorite",
+      "wallpaper_name": "Live Wallpaper 3",
       "wallpaper_type": "MP4",
       "wallpaper_url": "video/alwpchainsaw3.mp4"
+    },
+    {
+      "id": 34,
+      "name_category": "Trending",
+      "wallpaper_name": "Live Wallpaper 4",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "video/alwpchainsaw4.mp4"
+    },
+    {
+      "id": 35,
+      "name_category": "New",
+      "wallpaper_name": "Live Wallpaper 5",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "video/alwpchainsaw5.mp4"
+    },
+    {
+      "id": 36,
+      "name_category": "Best",
+      "wallpaper_name": "Live Wallpaper 6",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "video/alwpchainsaw6.mp4"
+    },
+    {
+      "id": 37,
+      "name_category": "Favorite",
+      "wallpaper_name": "Live Wallpaper 7",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "video/alwpchainsaw7.mp4"
+    },
+    {
+      "id": 38,
+      "name_category": "Trending",
+      "wallpaper_name": "Live Wallpaper 8",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "video/alwpchainsaw8.mp4"
+    },
+    {
+      "id": 39,
+      "name_category": "New",
+      "wallpaper_name": "Live Wallpaper 9",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "video/alwpchainsaw9.mp4"
+    },
+    {
+      "id": 40,
+      "name_category": "Best",
+      "wallpaper_name": "Live Wallpaper 10",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "video/alwpchainsaw10.mp4"
+    },
+    {
+      "id": 41,
+      "name_category": "Favorite",
+      "wallpaper_name": "Live Wallpaper 11",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "video/alwpchainsaw11.mp4"
+    },
+    {
+      "id": 42,
+      "name_category": "Trending",
+      "wallpaper_name": "Live Wallpaper 12",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "video/alwpchainsaw12.mp4"
+    },
+    {
+      "id": 43,
+      "name_category": "New",
+      "wallpaper_name": "Live Wallpaper 13",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "video/alwpchainsaw13.mp4"
+    },
+    {
+      "id": 44,
+      "name_category": "Best",
+      "wallpaper_name": "Live Wallpaper 14",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "video/alwpchainsaw14.mp4"
+    },
+    {
+      "id": 45,
+      "name_category": "Favorite",
+      "wallpaper_name": "Live Wallpaper 15",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "video/alwpchainsaw15.mp4"
+    },
+    {
+      "id": 46,
+      "name_category": "Trending",
+      "wallpaper_name": "Live Wallpaper 16",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "video/alwpchainsaw16.mp4"
+    },
+    {
+      "id": 47,
+      "name_category": "New",
+      "wallpaper_name": "Live Wallpaper 17",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "video/alwpchainsaw17.mp4"
+    },
+    {
+      "id": 48,
+      "name_category": "Best",
+      "wallpaper_name": "Live Wallpaper 18",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "video/alwpchainsaw18.mp4"
+    },
+    {
+      "id": 49,
+      "name_category": "Favorite",
+      "wallpaper_name": "Live Wallpaper 19",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "video/alwpchainsaw19.mp4"
+    },
+    {
+      "id": 50,
+      "name_category": "Trending",
+      "wallpaper_name": "Live Wallpaper 20",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "video/alwpchainsaw20.mp4"
+    },
+    {
+      "id": 51,
+      "name_category": "New",
+      "wallpaper_name": "Live Wallpaper 21",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "video/alwpchainsaw21.mp4"
+    },
+    {
+      "id": 52,
+      "name_category": "Best",
+      "wallpaper_name": "Live Wallpaper 22",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "video/alwpchainsaw22.mp4"
+    },
+    {
+      "id": 53,
+      "name_category": "Favorite",
+      "wallpaper_name": "Live Wallpaper 23",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "video/alwpchainsaw23.mp4"
+    },
+    {
+      "id": 54,
+      "name_category": "Trending",
+      "wallpaper_name": "Live Wallpaper 24",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "video/alwpchainsaw24.mp4"
+    },
+    {
+      "id": 55,
+      "name_category": "New",
+      "wallpaper_name": "Live Wallpaper 25",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "video/alwpchainsaw25.mp4"
+    },
+    {
+      "id": 56,
+      "name_category": "Best",
+      "wallpaper_name": "Live Wallpaper 26",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "video/alwpchainsaw26.mp4"
+    },
+    {
+      "id": 57,
+      "name_category": "Favorite",
+      "wallpaper_name": "Live Wallpaper 27",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "video/alwpchainsaw27.mp4"
+    },
+    {
+      "id": 58,
+      "name_category": "Trending",
+      "wallpaper_name": "Live Wallpaper 28",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "video/alwpchainsaw28.mp4"
+    },
+    {
+      "id": 59,
+      "name_category": "New",
+      "wallpaper_name": "Live Wallpaper 29",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "video/alwpchainsaw29.mp4"
+    },
+    {
+      "id": 60,
+      "name_category": "Best",
+      "wallpaper_name": "Live Wallpaper 30",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "video/alwpchainsaw30.mp4"
     }
   ]
 }

@@ -1,0 +1,145 @@
+{
+"Ads":
+  [
+    {
+      "status_redirect":"0",
+      "link_redirect":"https://",
+      "admob_inter":"",
+      "admob_banner":"",
+      "admob_open_ads":"",
+      "select_ads":"UNITY",
+      "interval":2,
+      "unityID":"",
+      "unity_banner":"Banner_Android",
+      "unity_inter":"Interstitial_Android",
+      "startappid":"",
+      "kidoz_pub_id":"",
+      "kidoz_token":""
+    }
+  ],
+ 
+  "Data":
+  [
+    {
+      "title":"Earth 3D Puzzle 1",
+      "image":"https://ia801500.us.archive.org/14/items/EARTH3Dpuzzle/brawlfans1.jpg"
+    },
+    {
+      "title":"Earth 3D Puzzle 2",
+      "image":"https://ia801500.us.archive.org/14/items/EARTH3Dpuzzle/brawlfans2.jpg"
+    },
+    {
+      "title":"Earth 3D Puzzle 3",
+      "image":"https://ia801500.us.archive.org/14/items/EARTH3Dpuzzle/brawlfans3.jpg"
+    },
+    {
+      "title":"Earth 3D Puzzle 4",
+      "image":"https://ia801500.us.archive.org/14/items/EARTH3Dpuzzle/brawlfans4.jpg"
+    },
+    {
+      "title":"Earth 3D Puzzle 5",
+      "image":"https://ia801500.us.archive.org/14/items/EARTH3Dpuzzle/brawlfans5.jpg"
+    },
+    {
+      "title":"Earth 3D Puzzle 6",
+      "image":"https://ia801500.us.archive.org/14/items/EARTH3Dpuzzle/brawlfans6.jpg"
+    },
+    {
+      "title":"Earth 3D Puzzle 7",
+      "image":"https://ia801500.us.archive.org/14/items/EARTH3Dpuzzle/brawlfans7.jpg"
+    },
+    {
+      "title":"Earth 3D Puzzle 8",
+      "image":"https://ia801500.us.archive.org/14/items/EARTH3Dpuzzle/brawlfans8.jpg"
+    },
+    {
+      "title":"Earth 3D Puzzle 9",
+      "image":"https://ia801500.us.archive.org/14/items/EARTH3Dpuzzle/brawlfans9.jpg"
+    },
+    {
+      "title":"Earth 3D Puzzle 10",
+      "image":"https://ia801500.us.archive.org/14/items/EARTH3Dpuzzle/brawlfans10.jpg"
+    },
+    {
+      "title":"Earth 3D Puzzle 11",
+      "image":"https://ia801500.us.archive.org/14/items/EARTH3Dpuzzle/brawlfans11.jpg"
+    },
+    {
+      "title":"Earth 3D Puzzle 12",
+      "image":"https://ia801500.us.archive.org/14/items/EARTH3Dpuzzle/brawlfans12.jpg"
+    },
+    {
+      "title":"Earth 3D Puzzle 13",
+      "image":"https://ia801500.us.archive.org/14/items/EARTH3Dpuzzle/brawlfans13.jpg"
+    },
+    {
+      "title":"Earth 3D Puzzle 14",
+      "image":"https://ia801500.us.archive.org/14/items/EARTH3Dpuzzle/brawlfans14.jpg"
+    },
+    {
+      "title":"Earth 3D Puzzle 15",
+      "image":"https://ia801500.us.archive.org/14/items/EARTH3Dpuzzle/brawlfans15.jpg"
+    },
+    {
+      "title":"Earth 3D Puzzle 16",
+      "image":"https://ia801500.us.archive.org/14/items/EARTH3Dpuzzle/brawlfans16.jpg"
+    },
+    {
+      "title":"Earth 3D Puzzle 17",
+      "image":"https://ia801500.us.archive.org/14/items/EARTH3Dpuzzle/brawlfans17.jpg"
+    },
+    {
+      "title":"Earth 3D Puzzle 18",
+      "image":"https://ia801500.us.archive.org/14/items/EARTH3Dpuzzle/brawlfans18.jpg"
+    },
+    {
+      "title":"Earth 3D Puzzle 19",
+      "image":"https://ia801500.us.archive.org/14/items/EARTH3Dpuzzle/brawlfans19.jpg"
+    },
+    {
+      "title":"Earth 3D Puzzle 20",
+      "image":"https://ia801500.us.archive.org/14/items/EARTH3Dpuzzle/brawlfans20.jpg"  
+    },
+    {
+      "title":"Earth 3D Puzzle 21",
+      "image":"https://ia801500.us.archive.org/14/items/EARTH3Dpuzzle/brawlfans21.jpg"
+    },
+    {
+      "title":"Earth 3D Puzzle 22",
+      "image":"https://ia801500.us.archive.org/14/items/EARTH3Dpuzzle/brawlfans22.jpg"
+    },
+    {
+      "title":"Earth 3D Puzzle 23",
+      "image":"https://ia801500.us.archive.org/14/items/EARTH3Dpuzzle/brawlfans23.jpg"
+    },
+    {
+      "title":"Earth 3D Puzzle 24",
+      "image":"https://ia801500.us.archive.org/14/items/EARTH3Dpuzzle/brawlfans24.jpg"
+    },
+    {
+      "title":"Earth 3D Puzzle 25",
+      "image":"https://ia801500.us.archive.org/14/items/EARTH3Dpuzzle/brawlfans25.jpg"
+    },
+    {
+      "title":"Earth 3D Puzzle 26",
+      "image":"https://ia801500.us.archive.org/14/items/EARTH3Dpuzzle/brawlfans26.jpg"
+    },
+    {
+      "title":"Earth 3D Puzzle 27",
+      "image":"https://ia801500.us.archive.org/14/items/EARTH3Dpuzzle/brawlfans27.jpg"
+    },
+    {
+      "title":"Earth 3D Puzzle 28",
+      "image":"https://ia801500.us.archive.org/14/items/EARTH3Dpuzzle/brawlfans28.jpg"
+    },
+    {
+      "title":"Earth 3D Puzzle 29",
+      "image":"https://ia801500.us.archive.org/14/items/EARTH3Dpuzzle/brawlfans29.jpg"
+    },
+    {
+      "title":"Earth 3D Puzzle 30",
+      "image":"https://ia801500.us.archive.org/14/items/EARTH3Dpuzzle/brawlfans30.jpg"  
+
+    }
+  ]
+}

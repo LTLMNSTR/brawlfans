@@ -38,361 +38,363 @@
     }
   ],
   "Wallpaper": [
-  /*
+
     {
       "id": 1,
       "name_category": "New",
       "wallpaper_name": "Paralax 1",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "linkimageharusnya1.jpg"
+      "wallpaper_url": "https://ia601504.us.archive.org/15/items/giyuparalax/brawlfans1.jpg"
     },
     {
       "id": 2,
       "name_category": "Best",
       "wallpaper_name": "Paralax 2",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "linkimageharusnya2.jpg"
+      "wallpaper_url": "https://ia601504.us.archive.org/15/items/giyuparalax/brawlfans2.jpg"
     },
     {
       "id": 3,
       "name_category": "Favorite",
       "wallpaper_name": "Paralax 3",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "linkimageharusnya3.jpg"
+      "wallpaper_url": "https://ia601504.us.archive.org/15/items/giyuparalax/brawlfans3.jpg"
     },
     {
       "id": 4,
       "name_category": "Trending",
       "wallpaper_name": "Paralax 4",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "linkimageharusnya4.jpg"
+      "wallpaper_url": "https://ia601504.us.archive.org/15/items/giyuparalax/brawlfans4.jpg"
     },
     {
       "id": 5,
       "name_category": "New",
       "wallpaper_name": "Paralax 5",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "linkimageharusnya5.jpg"
+      "wallpaper_url": "https://ia601504.us.archive.org/15/items/giyuparalax/brawlfans5.jpg"
     },
     {
       "id": 6,
       "name_category": "Best",
       "wallpaper_name": "Paralax 6",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "linkimageharusnya6.jpg"
+      "wallpaper_url": "https://ia601504.us.archive.org/15/items/giyuparalax/brawlfans6.jpg"
     },
     {
       "id": 7,
       "name_category": "Favorite",
       "wallpaper_name": "Paralax 7",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "linkimageharusnya7.jpg"
+      "wallpaper_url": "https://ia601504.us.archive.org/15/items/giyuparalax/brawlfans7.jpg"
     },
     {
       "id": 8,
       "name_category": "Trending",
       "wallpaper_name": "Paralax 8",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "linkimageharusnya8.jpg"
+      "wallpaper_url": "https://ia601504.us.archive.org/15/items/giyuparalax/brawlfans8.jpg"
     },
     {
       "id": 9,
       "name_category": "New",
       "wallpaper_name": "Paralax 9",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "linkimageharusnya9.jpg"
+      "wallpaper_url": "https://ia601504.us.archive.org/15/items/giyuparalax/brawlfans9.jpg"
     },
     {
       "id": 10,
       "name_category": "Best",
       "wallpaper_name": "Paralax 10",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "linkimageharusnya10.jpg"
+      "wallpaper_url": "https://ia601504.us.archive.org/15/items/giyuparalax/brawlfans10.jpg"
     },
     {
       "id": 11,
       "name_category": "Favorite",
       "wallpaper_name": "Paralax 11",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "linkimageharusnya11.jpg"
+      "wallpaper_url": "https://ia601504.us.archive.org/15/items/giyuparalax/brawlfans11.jpg"
     },
     {
       "id": 12,
       "name_category": "Trending",
       "wallpaper_name": "Paralax 12",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "linkimageharusnya12.jpg"
+      "wallpaper_url": "https://ia601504.us.archive.org/15/items/giyuparalax/brawlfans12.jpg"
     },
     {
       "id": 13,
       "name_category": "New",
       "wallpaper_name": "Paralax 13",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "linkimageharusnya13.jpg"
+      "wallpaper_url": "https://ia601504.us.archive.org/15/items/giyuparalax/brawlfans13.jpg"
     },
     {
       "id": 14,
       "name_category": "Best",
       "wallpaper_name": "Paralax 14",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "linkimageharusnya14.jpg"
+      "wallpaper_url": "https://ia601504.us.archive.org/15/items/giyuparalax/brawlfans14.jpg"
     },
     {
       "id": 15,
       "name_category": "Favorite",
       "wallpaper_name": "Paralax 15",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "linkimageharusnya15.jpg"
+      "wallpaper_url": "https://ia601504.us.archive.org/15/items/giyuparalax/brawlfans15.jpg"
     },
     {
       "id": 16,
       "name_category": "Trending",
       "wallpaper_name": "Paralax 16",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "linkimageharusnya16.jpg"
+      "wallpaper_url": "https://ia601504.us.archive.org/15/items/giyuparalax/brawlfans16.jpg"
     },
     {
       "id": 17,
       "name_category": "New",
       "wallpaper_name": "Paralax 17",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "linkimageharusnya17.jpg"
+      "wallpaper_url": "https://ia601504.us.archive.org/15/items/giyuparalax/brawlfans17.jpg"
     },
     {
       "id": 18,
       "name_category": "Best",
       "wallpaper_name": "Paralax 18",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "linkimageharusnya18.jpg"
+      "wallpaper_url": "https://ia601504.us.archive.org/15/items/giyuparalax/brawlfans18.jpg"
     },
     {
       "id": 19,
       "name_category": "Favorite",
       "wallpaper_name": "Paralax 19",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "linkimageharusnya19.jpg"
+      "wallpaper_url": "https://ia601504.us.archive.org/15/items/giyuparalax/brawlfans19.jpg"
     },
     {
       "id": 20,
       "name_category": "Trending",
       "wallpaper_name": "Paralax 20",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "linkimageharusnya20.jpg"
+      "wallpaper_url": "https://ia601504.us.archive.org/15/items/giyuparalax/brawlfans20.jpg"
     },
     {
       "id": 21,
       "name_category": "New",
       "wallpaper_name": "Paralax 21",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "linkimageharusnya21.jpg"
+      "wallpaper_url": "https://ia601504.us.archive.org/15/items/giyuparalax/brawlfans21.jpg"
     },
     {
       "id": 22,
       "name_category": "Best",
       "wallpaper_name": "Paralax 22",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "linkimageharusnya22.jpg"
+      "wallpaper_url": "https://ia601504.us.archive.org/15/items/giyuparalax/brawlfans22.jpg"
     },
     {
       "id": 23,
       "name_category": "Favorite",
       "wallpaper_name": "Paralax 23",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "linkimageharusnya23.jpg"
+      "wallpaper_url": "https://ia601504.us.archive.org/15/items/giyuparalax/brawlfans23.jpg"
     },
     {
       "id": 24,
       "name_category": "Trending",
       "wallpaper_name": "Paralax 24",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "linkimageharusnya24.jpg"
+      "wallpaper_url": "https://ia601504.us.archive.org/15/items/giyuparalax/brawlfans24.jpg"
     },
     {
       "id": 25,
       "name_category": "New",
       "wallpaper_name": "Paralax 25",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "linkimageharusnya25.jpg"
+      "wallpaper_url": "https://ia601504.us.archive.org/15/items/giyuparalax/brawlfans25.jpg"
     },
     {
       "id": 26,
       "name_category": "Best",
       "wallpaper_name": "Paralax 26",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "linkimageharusnya26.jpg"
+      "wallpaper_url": "https://ia601504.us.archive.org/15/items/giyuparalax/brawlfans26.jpg"
     },
     {
       "id": 27,
       "name_category": "Favorite",
       "wallpaper_name": "Paralax 27",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "linkimageharusnya27.jpg"
+      "wallpaper_url": "https://ia601504.us.archive.org/15/items/giyuparalax/brawlfans27.jpg"
     },
     {
       "id": 28,
       "name_category": "Trending",
       "wallpaper_name": "Paralax 28",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "linkimageharusnya28.jpg"
+      "wallpaper_url": "https://ia601504.us.archive.org/15/items/giyuparalax/brawlfans28.jpg"
     },
     {
       "id": 29,
       "name_category": "New",
       "wallpaper_name": "Paralax 29",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "linkimageharusnya29.jpg"
+      "wallpaper_url": "https://ia601504.us.archive.org/15/items/giyuparalax/brawlfans29.jpg"
     },
     {
       "id": 30,
       "name_category": "Best",
       "wallpaper_name": "Paralax 30",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "linkimageharusnya30.jpg"
-    },
+      "wallpaper_url": "https://ia601504.us.archive.org/15/items/giyuparalax/brawlfans30.jpg"
+    }
+/*
+    ,
     {
       "id": 31,
       "name_category": "Favorite",
       "wallpaper_name": "Paralax 31",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "linkimageharusnya31.jpg"
+      "wallpaper_url": "https://ia601504.us.archive.org/15/items/giyuparalax/brawlfans31.jpg"
     },
     {
       "id": 32,
       "name_category": "Trending",
       "wallpaper_name": "Paralax 32",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "linkimageharusnya32.jpg"
+      "wallpaper_url": "https://ia601504.us.archive.org/15/items/giyuparalax/brawlfans32.jpg"
     },
     {
       "id": 33,
       "name_category": "New",
       "wallpaper_name": "Paralax 33",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "linkimageharusnya33.jpg"
+      "wallpaper_url": "https://ia601504.us.archive.org/15/items/giyuparalax/brawlfans33.jpg"
     },
     {
       "id": 34,
       "name_category": "Best",
       "wallpaper_name": "Paralax 34",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "linkimageharusnya34.jpg"
+      "wallpaper_url": "https://ia601504.us.archive.org/15/items/giyuparalax/brawlfans34.jpg"
     },
     {
       "id": 35,
       "name_category": "Favorite",
       "wallpaper_name": "Paralax 35",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "linkimageharusnya35.jpg"
+      "wallpaper_url": "https://ia601504.us.archive.org/15/items/giyuparalax/brawlfans35.jpg"
     },
     {
       "id": 36,
       "name_category": "Trending",
       "wallpaper_name": "Paralax 36",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "linkimageharusnya36.jpg"
+      "wallpaper_url": "https://ia601504.us.archive.org/15/items/giyuparalax/brawlfans36.jpg"
     },
     {
       "id": 37,
       "name_category": "New",
       "wallpaper_name": "Paralax 37",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "linkimageharusnya37.jpg"
+      "wallpaper_url": "https://ia601504.us.archive.org/15/items/giyuparalax/brawlfans37.jpg"
     },
     {
       "id": 38,
       "name_category": "Best",
       "wallpaper_name": "Paralax 38",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "linkimageharusnya38.jpg"
+      "wallpaper_url": "https://ia601504.us.archive.org/15/items/giyuparalax/brawlfans38.jpg"
     },
     {
       "id": 39,
       "name_category": "Favorite",
       "wallpaper_name": "Paralax 39",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "linkimageharusnya39.jpg"
+      "wallpaper_url": "https://ia601504.us.archive.org/15/items/giyuparalax/brawlfans39.jpg"
     },
     {
       "id": 40,
       "name_category": "Trending",
       "wallpaper_name": "Paralax 40",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "linkimageharusnya40.jpg"
+      "wallpaper_url": "https://ia601504.us.archive.org/15/items/giyuparalax/brawlfans40.jpg"
     },
     {
       "id": 41,
       "name_category": "New",
       "wallpaper_name": "Paralax 41",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "linkimageharusnya41.jpg"
+      "wallpaper_url": "https://ia601504.us.archive.org/15/items/giyuparalax/brawlfans41.jpg"
     },
     {
       "id": 42,
       "name_category": "Best",
       "wallpaper_name": "Paralax 42",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "linkimageharusnya42.jpg"
+      "wallpaper_url": "https://ia601504.us.archive.org/15/items/giyuparalax/brawlfans42.jpg"
     },
     {
       "id": 43,
       "name_category": "Favorite",
       "wallpaper_name": "Paralax 43",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "linkimageharusnya43.jpg"
+      "wallpaper_url": "https://ia601504.us.archive.org/15/items/giyuparalax/brawlfans43.jpg"
     },
     {
       "id": 44,
       "name_category": "Trending",
       "wallpaper_name": "Paralax 44",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "linkimageharusnya44.jpg"
+      "wallpaper_url": "https://ia601504.us.archive.org/15/items/giyuparalax/brawlfans44.jpg"
     },
     {
       "id": 45,
       "name_category": "New",
       "wallpaper_name": "Paralax 45",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "linkimageharusnya45.jpg"
+      "wallpaper_url": "https://ia601504.us.archive.org/15/items/giyuparalax/brawlfans45.jpg"
     },
     {
       "id": 46,
       "name_category": "Best",
       "wallpaper_name": "Paralax 46",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "linkimageharusnya46.jpg"
+      "wallpaper_url": "https://ia601504.us.archive.org/15/items/giyuparalax/brawlfans46.jpg"
     },
     {
       "id": 47,
       "name_category": "Favorite",
       "wallpaper_name": "Paralax 47",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "linkimageharusnya47.jpg"
+      "wallpaper_url": "https://ia601504.us.archive.org/15/items/giyuparalax/brawlfans47.jpg"
     },
     {
       "id": 48,
       "name_category": "Trending",
       "wallpaper_name": "Paralax 48",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "linkimageharusnya48.jpg"
+      "wallpaper_url": "https://ia601504.us.archive.org/15/items/giyuparalax/brawlfans48.jpg"
     },
     {
       "id": 49,
       "name_category": "New",
       "wallpaper_name": "Paralax 49",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "linkimageharusnya49.jpg"
+      "wallpaper_url": "https://ia601504.us.archive.org/15/items/giyuparalax/brawlfans49.jpg"
     },
     {
       "id": 50,
       "name_category": "Best",
       "wallpaper_name": "Paralax 50",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "linkimageharusnya50.jpg"
+      "wallpaper_url": "https://ia601504.us.archive.org/15/items/giyuparalax/brawlfans50.jpg"
     },
     */
-//
-//------------------------------------------------------------------------------------------------------------------
-//
+/*
+------------------------------------------------------------------------------------------------------------------
+*/
     {
       "id": 51,
       "name_category": "New",

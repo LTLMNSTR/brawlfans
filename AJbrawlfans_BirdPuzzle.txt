@@ -21,245 +21,245 @@
   "Data":
   [
     {
-      "title":"Earth 3D Puzzle 1",
+      "title":"Bird Puzzle 1",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans1.jpg"
     },
     {
-      "title":"Earth 3D Puzzle 2",
+      "title":"Bird Puzzle 2",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans2.jpg"
     },
     {
-      "title":"Earth 3D Puzzle 3",
+      "title":"Bird Puzzle 3",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans3.jpg"
     },
     {
-      "title":"Earth 3D Puzzle 4",
+      "title":"Bird Puzzle 4",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans4.jpg"
     },
     {
-      "title":"Earth 3D Puzzle 5",
+      "title":"Bird Puzzle 5",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans5.jpg"
     },
     {
-      "title":"Earth 3D Puzzle 6",
+      "title":"Bird Puzzle 6",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans6.jpg"
     },
     {
-      "title":"Earth 3D Puzzle 7",
+      "title":"Bird Puzzle 7",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans7.jpg"
     },
     {
-      "title":"Earth 3D Puzzle 8",
+      "title":"Bird Puzzle 8",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans8.jpg"
     },
     {
-      "title":"Earth 3D Puzzle 9",
+      "title":"Bird Puzzle 9",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans9.jpg"
     },
     {
-      "title":"Earth 3D Puzzle 10",
+      "title":"Bird Puzzle 10",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans10.jpg"
     },
     {
-      "title":"Earth 3D Puzzle 11",
+      "title":"Bird Puzzle 11",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans11.jpg"
     },
     {
-      "title":"Earth 3D Puzzle 12",
+      "title":"Bird Puzzle 12",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans12.jpg"
     },
     {
-      "title":"Earth 3D Puzzle 13",
+      "title":"Bird Puzzle 13",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans13.jpg"
     },
     {
-      "title":"Earth 3D Puzzle 14",
+      "title":"Bird Puzzle 14",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans14.jpg"
     },
     {
-      "title":"Earth 3D Puzzle 15",
+      "title":"Bird Puzzle 15",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans15.jpg"
     },
     {
-      "title":"Earth 3D Puzzle 16",
+      "title":"Bird Puzzle 16",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans16.jpg"
     },
     {
-      "title":"Earth 3D Puzzle 17",
+      "title":"Bird Puzzle 17",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans17.jpg"
     },
     {
-      "title":"Earth 3D Puzzle 18",
+      "title":"Bird Puzzle 18",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans18.jpg"
     },
     {
-      "title":"Earth 3D Puzzle 19",
+      "title":"Bird Puzzle 19",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans19.jpg"
     },
     {
-      "title":"Earth 3D Puzzle 20",
+      "title":"Bird Puzzle 20",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans20.jpg"  
     },
     {
-      "title":"Earth 3D Puzzle 21",
+      "title":"Bird Puzzle 21",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans21.jpg"
     },
     {
-      "title":"Earth 3D Puzzle 22",
+      "title":"Bird Puzzle 22",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans22.jpg"
     },
     {
-      "title":"Earth 3D Puzzle 23",
+      "title":"Bird Puzzle 23",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans23.jpg"
     },
     {
-      "title":"Earth 3D Puzzle 24",
+      "title":"Bird Puzzle 24",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans24.jpg"
     },
     {
-      "title":"Earth 3D Puzzle 25",
+      "title":"Bird Puzzle 25",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans25.jpg"
     },
     {
-      "title":"Earth 3D Puzzle 26",
+      "title":"Bird Puzzle 26",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans26.jpg"
     },
     {
-      "title":"Earth 3D Puzzle 27",
+      "title":"Bird Puzzle 27",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans27.jpg"
     },
     {
-      "title":"Earth 3D Puzzle 28",
+      "title":"Bird Puzzle 28",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans28.jpg"
     },
     {
-      "title":"Earth 3D Puzzle 29",
+      "title":"Bird Puzzle 29",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans29.jpg"
     },
     {
-      "title":"Earth 3D Puzzle 30",
+      "title":"Bird Puzzle 30",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans30.jpg"  
     },
     {
-      "title":"Earth 3D Puzzle 31",
+      "title":"Bird Puzzle 31",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans31.jpg"
     },
     {
-      "title":"Earth 3D Puzzle 32",
+      "title":"Bird Puzzle 32",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans32.jpg"
     },
     {
-      "title":"Earth 3D Puzzle 33",
+      "title":"Bird Puzzle 33",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans33.jpg"
     },
     {
-      "title":"Earth 3D Puzzle 34",
+      "title":"Bird Puzzle 34",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans34.jpg"
     },
     {
-      "title":"Earth 3D Puzzle 35",
+      "title":"Bird Puzzle 35",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans35.jpg"
     },
     {
-      "title":"Earth 3D Puzzle 36",
+      "title":"Bird Puzzle 36",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans36.jpg"
     },
     {
-      "title":"Earth 3D Puzzle 37",
+      "title":"Bird Puzzle 37",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans37.jpg"
     },
     {
-      "title":"Earth 3D Puzzle 38",
+      "title":"Bird Puzzle 38",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans38.jpg"
     },
     {
-      "title":"Earth 3D Puzzle 39",
+      "title":"Bird Puzzle 39",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans39.jpg"
     },
     {
-      "title":"Earth 3D Puzzle 40",
+      "title":"Bird Puzzle 40",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans40.jpg"  
     },
     {
-      "title":"Earth 3D Puzzle 41",
+      "title":"Bird Puzzle 41",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans41.jpg"
     },
     {
-      "title":"Earth 3D Puzzle 42",
+      "title":"Bird Puzzle 42",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans42.jpg"
     },
     {
-      "title":"Earth 3D Puzzle 43",
+      "title":"Bird Puzzle 43",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans43.jpg"
     },
     {
-      "title":"Earth 3D Puzzle 44",
+      "title":"Bird Puzzle 44",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans44.jpg"
     },
     {
-      "title":"Earth 3D Puzzle 45",
+      "title":"Bird Puzzle 45",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans45.jpg"
     },
     {
-      "title":"Earth 3D Puzzle 46",
+      "title":"Bird Puzzle 46",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans46.jpg"
     },
     {
-      "title":"Earth 3D Puzzle 47",
+      "title":"Bird Puzzle 47",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans47.jpg"
     },
     {
-      "title":"Earth 3D Puzzle 48",
+      "title":"Bird Puzzle 48",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans48.jpg"
     },
     {
-      "title":"Earth 3D Puzzle 49",
+      "title":"Bird Puzzle 49",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans49.jpg"
     },
     {
-      "title":"Earth 3D Puzzle 50",
+      "title":"Bird Puzzle 50",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans50.jpg"  
     },
     {
-      "title":"Earth 3D Puzzle 51",
+      "title":"Bird Puzzle 51",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans51.jpg"
     },
     {
-      "title":"Earth 3D Puzzle 52",
+      "title":"Bird Puzzle 52",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans52.jpg"
     },
     {
-      "title":"Earth 3D Puzzle 53",
+      "title":"Bird Puzzle 53",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans53.jpg"
     },
     {
-      "title":"Earth 3D Puzzle 54",
+      "title":"Bird Puzzle 54",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans54.jpg"
     },
     {
-      "title":"Earth 3D Puzzle 55",
+      "title":"Bird Puzzle 55",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans55.jpg"
     },
     {
-      "title":"Earth 3D Puzzle 56",
+      "title":"Bird Puzzle 56",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans56.jpg"
     },
     {
-      "title":"Earth 3D Puzzle 5",
+      "title":"Bird Puzzle 5",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans57.jpg"
     },
     {
-      "title":"Earth 3D Puzzle 58",
+      "title":"Bird Puzzle 58",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans58.jpg"
     }
 /*
     ,
     {
-      "title":"Earth 3D Puzzle 59",
+      "title":"Bird Puzzle 59",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans59.jpg"
     },
     {
-      "title":"Earth 3D Puzzle 60",
+      "title":"Bird Puzzle 60",
       "image":"https://ia601504.us.archive.org/23/items/birdpuzzle/brawlfans60.jpg"  
 
     }

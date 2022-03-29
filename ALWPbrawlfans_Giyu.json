@@ -1,0 +1,747 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "APPLOVIN-D",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "19514cf521a5a5d3",
+      "main_ads_intertitial":"92f4731bec0ca454",
+      "backup_ads_banner":"19514cf521a5a5d3",
+      "backup_ads_intertitial":"92f4731bec0ca454",
+      "interval_intertitial": 3,
+      "initialize_sdk":"inN7BceTpUoEsTiRT9mZUW-4Wbty5zRmF-Uz6tKDTL-Cg3QfRCZ--W3hU2f0C9ouBHyhXqAIXT_BRnGCE0WdTz",
+      "initialize_sdk_backup_ads":"inN7BceTpUoEsTiRT9mZUW-4Wbty5zRmF-Uz6tKDTL-Cg3QfRCZ--W3hU2f0C9ouBHyhXqAIXT_BRnGCE0WdTz",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "New",
+      "wallpaper_url": "category/new.png"
+    },
+    {
+      "name_category": "Best",
+      "wallpaper_url": "category/best.png"
+    },
+    {
+      "name_category": "Favorite",
+      "wallpaper_url": "category/favorite.png"
+    },
+    {
+      "name_category": "Trending",
+      "wallpaper_url": "category/trending.png"
+    }
+  ],
+  "Wallpaper": [
+  /*
+    {
+      "id": 1,
+      "name_category": "New",
+      "wallpaper_name": "Paralax 1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "linkimageharusnya1.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Best",
+      "wallpaper_name": "Paralax 2",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "linkimageharusnya2.jpg"
+    },
+    {
+      "id": 3,
+      "name_category": "Favorite",
+      "wallpaper_name": "Paralax 3",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "linkimageharusnya3.jpg"
+    },
+    {
+      "id": 4,
+      "name_category": "Trending",
+      "wallpaper_name": "Paralax 4",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "linkimageharusnya4.jpg"
+    },
+    {
+      "id": 5,
+      "name_category": "New",
+      "wallpaper_name": "Paralax 5",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "linkimageharusnya5.jpg"
+    },
+    {
+      "id": 6,
+      "name_category": "Best",
+      "wallpaper_name": "Paralax 6",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "linkimageharusnya6.jpg"
+    },
+    {
+      "id": 7,
+      "name_category": "Favorite",
+      "wallpaper_name": "Paralax 7",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "linkimageharusnya7.jpg"
+    },
+    {
+      "id": 8,
+      "name_category": "Trending",
+      "wallpaper_name": "Paralax 8",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "linkimageharusnya8.jpg"
+    },
+    {
+      "id": 9,
+      "name_category": "New",
+      "wallpaper_name": "Paralax 9",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "linkimageharusnya9.jpg"
+    },
+    {
+      "id": 10,
+      "name_category": "Best",
+      "wallpaper_name": "Paralax 10",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "linkimageharusnya10.jpg"
+    },
+    {
+      "id": 11,
+      "name_category": "Favorite",
+      "wallpaper_name": "Paralax 11",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "linkimageharusnya11.jpg"
+    },
+    {
+      "id": 12,
+      "name_category": "Trending",
+      "wallpaper_name": "Paralax 12",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "linkimageharusnya12.jpg"
+    },
+    {
+      "id": 13,
+      "name_category": "New",
+      "wallpaper_name": "Paralax 13",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "linkimageharusnya13.jpg"
+    },
+    {
+      "id": 14,
+      "name_category": "Best",
+      "wallpaper_name": "Paralax 14",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "linkimageharusnya14.jpg"
+    },
+    {
+      "id": 15,
+      "name_category": "Favorite",
+      "wallpaper_name": "Paralax 15",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "linkimageharusnya15.jpg"
+    },
+    {
+      "id": 16,
+      "name_category": "Trending",
+      "wallpaper_name": "Paralax 16",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "linkimageharusnya16.jpg"
+    },
+    {
+      "id": 17,
+      "name_category": "New",
+      "wallpaper_name": "Paralax 17",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "linkimageharusnya17.jpg"
+    },
+    {
+      "id": 18,
+      "name_category": "Best",
+      "wallpaper_name": "Paralax 18",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "linkimageharusnya18.jpg"
+    },
+    {
+      "id": 19,
+      "name_category": "Favorite",
+      "wallpaper_name": "Paralax 19",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "linkimageharusnya19.jpg"
+    },
+    {
+      "id": 20,
+      "name_category": "Trending",
+      "wallpaper_name": "Paralax 20",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "linkimageharusnya20.jpg"
+    },
+    {
+      "id": 21,
+      "name_category": "New",
+      "wallpaper_name": "Paralax 21",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "linkimageharusnya21.jpg"
+    },
+    {
+      "id": 22,
+      "name_category": "Best",
+      "wallpaper_name": "Paralax 22",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "linkimageharusnya22.jpg"
+    },
+    {
+      "id": 23,
+      "name_category": "Favorite",
+      "wallpaper_name": "Paralax 23",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "linkimageharusnya23.jpg"
+    },
+    {
+      "id": 24,
+      "name_category": "Trending",
+      "wallpaper_name": "Paralax 24",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "linkimageharusnya24.jpg"
+    },
+    {
+      "id": 25,
+      "name_category": "New",
+      "wallpaper_name": "Paralax 25",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "linkimageharusnya25.jpg"
+    },
+    {
+      "id": 26,
+      "name_category": "Best",
+      "wallpaper_name": "Paralax 26",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "linkimageharusnya26.jpg"
+    },
+    {
+      "id": 27,
+      "name_category": "Favorite",
+      "wallpaper_name": "Paralax 27",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "linkimageharusnya27.jpg"
+    },
+    {
+      "id": 28,
+      "name_category": "Trending",
+      "wallpaper_name": "Paralax 28",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "linkimageharusnya28.jpg"
+    },
+    {
+      "id": 29,
+      "name_category": "New",
+      "wallpaper_name": "Paralax 29",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "linkimageharusnya29.jpg"
+    },
+    {
+      "id": 30,
+      "name_category": "Best",
+      "wallpaper_name": "Paralax 30",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "linkimageharusnya30.jpg"
+    },
+    {
+      "id": 31,
+      "name_category": "Favorite",
+      "wallpaper_name": "Paralax 31",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "linkimageharusnya31.jpg"
+    },
+    {
+      "id": 32,
+      "name_category": "Trending",
+      "wallpaper_name": "Paralax 32",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "linkimageharusnya32.jpg"
+    },
+    {
+      "id": 33,
+      "name_category": "New",
+      "wallpaper_name": "Paralax 33",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "linkimageharusnya33.jpg"
+    },
+    {
+      "id": 34,
+      "name_category": "Best",
+      "wallpaper_name": "Paralax 34",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "linkimageharusnya34.jpg"
+    },
+    {
+      "id": 35,
+      "name_category": "Favorite",
+      "wallpaper_name": "Paralax 35",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "linkimageharusnya35.jpg"
+    },
+    {
+      "id": 36,
+      "name_category": "Trending",
+      "wallpaper_name": "Paralax 36",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "linkimageharusnya36.jpg"
+    },
+    {
+      "id": 37,
+      "name_category": "New",
+      "wallpaper_name": "Paralax 37",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "linkimageharusnya37.jpg"
+    },
+    {
+      "id": 38,
+      "name_category": "Best",
+      "wallpaper_name": "Paralax 38",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "linkimageharusnya38.jpg"
+    },
+    {
+      "id": 39,
+      "name_category": "Favorite",
+      "wallpaper_name": "Paralax 39",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "linkimageharusnya39.jpg"
+    },
+    {
+      "id": 40,
+      "name_category": "Trending",
+      "wallpaper_name": "Paralax 40",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "linkimageharusnya40.jpg"
+    },
+    {
+      "id": 41,
+      "name_category": "New",
+      "wallpaper_name": "Paralax 41",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "linkimageharusnya41.jpg"
+    },
+    {
+      "id": 42,
+      "name_category": "Best",
+      "wallpaper_name": "Paralax 42",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "linkimageharusnya42.jpg"
+    },
+    {
+      "id": 43,
+      "name_category": "Favorite",
+      "wallpaper_name": "Paralax 43",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "linkimageharusnya43.jpg"
+    },
+    {
+      "id": 44,
+      "name_category": "Trending",
+      "wallpaper_name": "Paralax 44",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "linkimageharusnya44.jpg"
+    },
+    {
+      "id": 45,
+      "name_category": "New",
+      "wallpaper_name": "Paralax 45",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "linkimageharusnya45.jpg"
+    },
+    {
+      "id": 46,
+      "name_category": "Best",
+      "wallpaper_name": "Paralax 46",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "linkimageharusnya46.jpg"
+    },
+    {
+      "id": 47,
+      "name_category": "Favorite",
+      "wallpaper_name": "Paralax 47",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "linkimageharusnya47.jpg"
+    },
+    {
+      "id": 48,
+      "name_category": "Trending",
+      "wallpaper_name": "Paralax 48",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "linkimageharusnya48.jpg"
+    },
+    {
+      "id": 49,
+      "name_category": "New",
+      "wallpaper_name": "Paralax 49",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "linkimageharusnya49.jpg"
+    },
+    {
+      "id": 50,
+      "name_category": "Best",
+      "wallpaper_name": "Paralax 50",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "linkimageharusnya50.jpg"
+    },
+    */
+//
+//------------------------------------------------------------------------------------------------------------------
+//
+    {
+      "id": 51,
+      "name_category": "New",
+      "wallpaper_name": "Live Wallpaper 1",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601507.us.archive.org/15/items/GIYUlivewallpaper/brawlfansinb1.mp4"
+    },
+    {
+      "id": 52,
+      "name_category": "Best",
+      "wallpaper_name": "Live Wallpaper 2",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601507.us.archive.org/15/items/GIYUlivewallpaper/brawlfansinb2.mp4"
+    },
+    {
+      "id": 53,
+      "name_category": "Favorite",
+      "wallpaper_name": "Live Wallpaper 3",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601507.us.archive.org/15/items/GIYUlivewallpaper/brawlfansinb3.mp4"
+    },
+    {
+      "id": 54,
+      "name_category": "Trending",
+      "wallpaper_name": "Live Wallpaper 4",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601507.us.archive.org/15/items/GIYUlivewallpaper/brawlfansinb4.mp4"
+    },
+    {
+      "id": 55,
+      "name_category": "New",
+      "wallpaper_name": "Live Wallpaper 5",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601507.us.archive.org/15/items/GIYUlivewallpaper/brawlfansinb5.mp4"
+    },
+    {
+      "id": 56,
+      "name_category": "Best",
+      "wallpaper_name": "Live Wallpaper 6",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601507.us.archive.org/15/items/GIYUlivewallpaper/brawlfansinb6.mp4"
+    },
+    {
+      "id": 57,
+      "name_category": "Favorite",
+      "wallpaper_name": "Live Wallpaper 7",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601507.us.archive.org/15/items/GIYUlivewallpaper/brawlfansinb7.mp4"
+    },
+    {
+      "id": 58,
+      "name_category": "Trending",
+      "wallpaper_name": "Live Wallpaper 8",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601507.us.archive.org/15/items/GIYUlivewallpaper/brawlfansinb8.mp4"
+    },
+    {
+      "id": 59,
+      "name_category": "New",
+      "wallpaper_name": "Live Wallpaper 9",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601507.us.archive.org/15/items/GIYUlivewallpaper/brawlfansinb9.mp4"
+    },
+    {
+      "id": 60,
+      "name_category": "Best",
+      "wallpaper_name": "Live Wallpaper 10",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601507.us.archive.org/15/items/GIYUlivewallpaper/brawlfansinb10.mp4"
+    },
+    {
+      "id": 61,
+      "name_category": "Favorite",
+      "wallpaper_name": "Live Wallpaper 11",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601507.us.archive.org/15/items/GIYUlivewallpaper/brawlfansinb11.mp4"
+    },
+    {
+      "id": 62,
+      "name_category": "Trending",
+      "wallpaper_name": "Live Wallpaper 12",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601507.us.archive.org/15/items/GIYUlivewallpaper/brawlfansinb12.mp4"
+    },
+    {
+      "id": 63,
+      "name_category": "New",
+      "wallpaper_name": "Live Wallpaper 13",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601507.us.archive.org/15/items/GIYUlivewallpaper/brawlfansinb13.mp4"
+    },
+    {
+      "id": 64,
+      "name_category": "Best",
+      "wallpaper_name": "Live Wallpaper 14",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601507.us.archive.org/15/items/GIYUlivewallpaper/brawlfansinb14.mp4"
+    },
+    {
+      "id": 65,
+      "name_category": "Favorite",
+      "wallpaper_name": "Live Wallpaper 15",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601507.us.archive.org/15/items/GIYUlivewallpaper/brawlfansinb15.mp4"
+    },
+    {
+      "id": 66,
+      "name_category": "Trending",
+      "wallpaper_name": "Live Wallpaper 16",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601507.us.archive.org/15/items/GIYUlivewallpaper/brawlfansinb16.mp4"
+    },
+    {
+      "id": 67,
+      "name_category": "New",
+      "wallpaper_name": "Live Wallpaper 17",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601507.us.archive.org/15/items/GIYUlivewallpaper/brawlfansinb17.mp4"
+    },
+    {
+      "id": 68,
+      "name_category": "Best",
+      "wallpaper_name": "Live Wallpaper 18",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601507.us.archive.org/15/items/GIYUlivewallpaper/brawlfansinb18.mp4"
+    },
+    {
+      "id": 69,
+      "name_category": "Favorite",
+      "wallpaper_name": "Live Wallpaper 19",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601507.us.archive.org/15/items/GIYUlivewallpaper/brawlfansinb19.mp4"
+    },
+    {
+      "id": 70,
+      "name_category": "Trending",
+      "wallpaper_name": "Live Wallpaper 20",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601507.us.archive.org/15/items/GIYUlivewallpaper/brawlfansinb20.mp4"
+    },
+    {
+      "id": 71,
+      "name_category": "New",
+      "wallpaper_name": "Live Wallpaper 21",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601507.us.archive.org/15/items/GIYUlivewallpaper/brawlfansinb21.mp4"
+    },
+    {
+      "id": 72,
+      "name_category": "Best",
+      "wallpaper_name": "Live Wallpaper 22",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601507.us.archive.org/15/items/GIYUlivewallpaper/brawlfansinb22.mp4"
+    },
+    {
+      "id": 73,
+      "name_category": "Favorite",
+      "wallpaper_name": "Live Wallpaper 23",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601507.us.archive.org/15/items/GIYUlivewallpaper/brawlfansinb23.mp4"
+    },
+    {
+      "id": 74,
+      "name_category": "Trending",
+      "wallpaper_name": "Live Wallpaper 24",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601507.us.archive.org/15/items/GIYUlivewallpaper/brawlfansinb24.mp4"
+    },
+    {
+      "id": 75,
+      "name_category": "New",
+      "wallpaper_name": "Live Wallpaper 25",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601507.us.archive.org/15/items/GIYUlivewallpaper/brawlfansinb25.mp4"
+    },
+    {
+      "id": 76,
+      "name_category": "Best",
+      "wallpaper_name": "Live Wallpaper 26",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601507.us.archive.org/15/items/GIYUlivewallpaper/brawlfansinb26.mp4"
+    },
+    {
+      "id": 77,
+      "name_category": "Favorite",
+      "wallpaper_name": "Live Wallpaper 27",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601507.us.archive.org/15/items/GIYUlivewallpaper/brawlfansinb27.mp4"
+    },
+    {
+      "id": 78,
+      "name_category": "Trending",
+      "wallpaper_name": "Live Wallpaper 28",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601507.us.archive.org/15/items/GIYUlivewallpaper/brawlfansinb28.mp4"
+    },
+    {
+      "id": 79,
+      "name_category": "New",
+      "wallpaper_name": "Live Wallpaper 29",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601507.us.archive.org/15/items/GIYUlivewallpaper/brawlfansinb29.mp4"
+    },
+    {
+      "id": 80,
+      "name_category": "Best",
+      "wallpaper_name": "Live Wallpaper 30",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601507.us.archive.org/15/items/GIYUlivewallpaper/brawlfansinb30.mp4"
+    }/*,
+    {
+      "id": 81,
+      "name_category": "Favorite",
+      "wallpaper_name": "Live Wallpaper 31",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601507.us.archive.org/15/items/GIYUlivewallpaper/brawlfansinb31.mp4"
+    },
+    {
+      "id": 82,
+      "name_category": "Trending",
+      "wallpaper_name": "Live Wallpaper 32",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601507.us.archive.org/15/items/GIYUlivewallpaper/brawlfansinb32.mp4"
+    },
+    {
+      "id": 83,
+      "name_category": "New",
+      "wallpaper_name": "Live Wallpaper 33",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601507.us.archive.org/15/items/GIYUlivewallpaper/brawlfansinb33.mp4"
+    },
+    {
+      "id": 84,
+      "name_category": "Best",
+      "wallpaper_name": "Live Wallpaper 34",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601507.us.archive.org/15/items/GIYUlivewallpaper/brawlfansinb34.mp4"
+    },
+    {
+      "id": 85,
+      "name_category": "Favorite",
+      "wallpaper_name": "Live Wallpaper 35",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601507.us.archive.org/15/items/GIYUlivewallpaper/brawlfansinb35.mp4"
+    },
+    {
+      "id": 86,
+      "name_category": "Trending",
+      "wallpaper_name": "Live Wallpaper 36",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601507.us.archive.org/15/items/GIYUlivewallpaper/brawlfansinb36.mp4"
+    },
+    {
+      "id": 87,
+      "name_category": "New",
+      "wallpaper_name": "Live Wallpaper 37",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601507.us.archive.org/15/items/GIYUlivewallpaper/brawlfansinb37.mp4"
+    },
+    {
+      "id": 88,
+      "name_category": "Best",
+      "wallpaper_name": "Live Wallpaper 38",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601507.us.archive.org/15/items/GIYUlivewallpaper/brawlfansinb38.mp4"
+    },
+    {
+      "id": 89,
+      "name_category": "Favorite",
+      "wallpaper_name": "Live Wallpaper 39",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601507.us.archive.org/15/items/GIYUlivewallpaper/brawlfansinb39.mp4"
+    },
+    {
+      "id": 90,
+      "name_category": "Trending",
+      "wallpaper_name": "Live Wallpaper 40",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601507.us.archive.org/15/items/GIYUlivewallpaper/brawlfansinb40.mp4"
+    },
+    {
+      "id": 91,
+      "name_category": "New",
+      "wallpaper_name": "Live Wallpaper 41",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601507.us.archive.org/15/items/GIYUlivewallpaper/brawlfansinb41.mp4"
+    },
+    {
+      "id": 92,
+      "name_category": "Best",
+      "wallpaper_name": "Live Wallpaper 42",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601507.us.archive.org/15/items/GIYUlivewallpaper/brawlfansinb42.mp4"
+    },
+    {
+      "id": 93,
+      "name_category": "Favorite",
+      "wallpaper_name": "Live Wallpaper 43",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601507.us.archive.org/15/items/GIYUlivewallpaper/brawlfansinb43.mp4"
+    },
+    {
+      "id": 94,
+      "name_category": "Trending",
+      "wallpaper_name": "Live Wallpaper 44",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601507.us.archive.org/15/items/GIYUlivewallpaper/brawlfansinb44.mp4"
+    },
+    {
+      "id": 95,
+      "name_category": "New",
+      "wallpaper_name": "Live Wallpaper 45",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601507.us.archive.org/15/items/GIYUlivewallpaper/brawlfansinb45.mp4"
+    },
+    {
+      "id": 96,
+      "name_category": "Best",
+      "wallpaper_name": "Live Wallpaper 46",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601507.us.archive.org/15/items/GIYUlivewallpaper/brawlfansinb46.mp4"
+    },
+    {
+      "id": 97,
+      "name_category": "Favorite",
+      "wallpaper_name": "Live Wallpaper 47",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601507.us.archive.org/15/items/GIYUlivewallpaper/brawlfansinb47.mp4"
+    },
+    {
+      "id": 98,
+      "name_category": "Trending",
+      "wallpaper_name": "Live Wallpaper 48",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601507.us.archive.org/15/items/GIYUlivewallpaper/brawlfansinb48.mp4"
+    },
+    {
+      "id": 99,
+      "name_category": "New",
+      "wallpaper_name": "Live Wallpaper 49",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601507.us.archive.org/15/items/GIYUlivewallpaper/brawlfansinb49.mp4"
+    },
+    {
+      "id": 100,
+      "name_category": "Best",
+      "wallpaper_name": "Live Wallpaper 50",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601507.us.archive.org/15/items/GIYUlivewallpaper/brawlfansinb50.mp4"
+    }*/
+  ]
+}

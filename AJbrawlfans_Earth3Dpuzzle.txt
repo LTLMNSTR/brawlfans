@@ -99,7 +99,9 @@
     {
       "title":"Earth 3D Puzzle 20",
       "image":"https://ia801500.us.archive.org/14/items/EARTH3Dpuzzle/brawlfans20.jpg"  
-    },
+    }
+/*    
+    ,
     {
       "title":"Earth 3D Puzzle 21",
       "image":"https://ia801500.us.archive.org/14/items/EARTH3Dpuzzle/brawlfans21.jpg"
@@ -141,5 +143,6 @@
       "image":"https://ia801500.us.archive.org/14/items/EARTH3Dpuzzle/brawlfans30.jpg"  
 
     }
+    */
   ]
 }

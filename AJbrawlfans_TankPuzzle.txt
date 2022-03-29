@@ -1,0 +1,269 @@
+{
+"Ads":
+  [
+    {
+      "status_redirect":"0",
+      "link_redirect":"https://",
+      "admob_inter":"",
+      "admob_banner":"",
+      "admob_open_ads":"",
+      "select_ads":"UNITY",
+      "interval":2,
+      "unityID":"",
+      "unity_banner":"Banner_Android",
+      "unity_inter":"Interstitial_Android",
+      "startappid":"",
+      "kidoz_pub_id":"",
+      "kidoz_token":""
+    }
+  ],
+ 
+  "Data":
+  [
+    {
+      "title":"Tank Puzzle 1",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans1.jpg"
+    },
+    {
+      "title":"Tank Puzzle 2",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans2.jpg"
+    },
+    {
+      "title":"Tank Puzzle 3",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans3.jpg"
+    },
+    {
+      "title":"Tank Puzzle 4",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans4.jpg"
+    },
+    {
+      "title":"Tank Puzzle 5",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans5.jpg"
+    },
+    {
+      "title":"Tank Puzzle 6",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans6.jpg"
+    },
+    {
+      "title":"Tank Puzzle 7",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans7.jpg"
+    },
+    {
+      "title":"Tank Puzzle 8",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans8.jpg"
+    },
+    {
+      "title":"Tank Puzzle 9",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans9.jpg"
+    },
+    {
+      "title":"Tank Puzzle 10",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans10.jpg"
+    },
+    {
+      "title":"Tank Puzzle 11",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans11.jpg"
+    },
+    {
+      "title":"Tank Puzzle 12",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans12.jpg"
+    },
+    {
+      "title":"Tank Puzzle 13",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans13.jpg"
+    },
+    {
+      "title":"Tank Puzzle 14",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans14.jpg"
+    },
+    {
+      "title":"Tank Puzzle 15",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans15.jpg"
+    },
+    {
+      "title":"Tank Puzzle 16",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans16.jpg"
+    },
+    {
+      "title":"Tank Puzzle 17",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans17.jpg"
+    },
+    {
+      "title":"Tank Puzzle 18",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans18.jpg"
+    },
+    {
+      "title":"Tank Puzzle 19",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans19.jpg"
+    },
+    {
+      "title":"Tank Puzzle 20",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans20.jpg"  
+    },
+    {
+      "title":"Tank Puzzle 21",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans21.jpg"
+    },
+    {
+      "title":"Tank Puzzle 22",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans22.jpg"
+    },
+    {
+      "title":"Tank Puzzle 23",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans23.jpg"
+    },
+    {
+      "title":"Tank Puzzle 24",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans24.jpg"
+    },
+    {
+      "title":"Tank Puzzle 25",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans25.jpg"
+    },
+    {
+      "title":"Tank Puzzle 26",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans26.jpg"
+    },
+    {
+      "title":"Tank Puzzle 27",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans27.jpg"
+    },
+    {
+      "title":"Tank Puzzle 28",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans28.jpg"
+    },
+    {
+      "title":"Tank Puzzle 29",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans29.jpg"
+    },
+    {
+      "title":"Tank Puzzle 30",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans30.jpg"  
+    },
+    {
+      "title":"Tank Puzzle 31",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans31.jpg"
+    }
+/*
+    ,
+    {
+      "title":"Tank Puzzle 32",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans32.jpg"
+    },
+    {
+      "title":"Tank Puzzle 33",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans33.jpg"
+    },
+    {
+      "title":"Tank Puzzle 34",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans34.jpg"
+    },
+    {
+      "title":"Tank Puzzle 35",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans35.jpg"
+    },
+    {
+      "title":"Tank Puzzle 36",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans36.jpg"
+    },
+    {
+      "title":"Tank Puzzle 37",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans37.jpg"
+    },
+    {
+      "title":"Tank Puzzle 38",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans38.jpg"
+    },
+    {
+      "title":"Tank Puzzle 39",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans39.jpg"
+    },
+    {
+      "title":"Tank Puzzle 40",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans40.jpg"  
+    },
+    {
+      "title":"Tank Puzzle 41",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans41.jpg"
+    },
+    {
+      "title":"Tank Puzzle 42",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans42.jpg"
+    },
+    {
+      "title":"Tank Puzzle 43",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans43.jpg"
+    },
+    {
+      "title":"Tank Puzzle 44",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans44.jpg"
+    },
+    {
+      "title":"Tank Puzzle 45",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans45.jpg"
+    },
+    {
+      "title":"Tank Puzzle 46",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans46.jpg"
+    },
+    {
+      "title":"Tank Puzzle 47",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans47.jpg"
+    },
+    {
+      "title":"Tank Puzzle 48",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans48.jpg"
+    },
+    {
+      "title":"Tank Puzzle 49",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans49.jpg"
+    },
+    {
+      "title":"Tank Puzzle 50",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans50.jpg"  
+    },
+    {
+      "title":"Tank Puzzle 51",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans51.jpg"
+    },
+    {
+      "title":"Tank Puzzle 52",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans52.jpg"
+    },
+    {
+      "title":"Tank Puzzle 53",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans53.jpg"
+    },
+    {
+      "title":"Tank Puzzle 54",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans54.jpg"
+    },
+    {
+      "title":"Tank Puzzle 55",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans55.jpg"
+    },
+    {
+      "title":"Tank Puzzle 56",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans56.jpg"
+    },
+    {
+      "title":"Tank Puzzle 5",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans57.jpg"
+    },
+    {
+      "title":"Tank Puzzle 58",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans58.jpg"
+    }
+    ,
+    {
+      "title":"Tank Puzzle 59",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans59.jpg"
+    },
+    {
+      "title":"Tank Puzzle 60",
+      "image":"https://ia601405.us.archive.org/2/items/tankpuzzle/brawlfans60.jpg"  
+
+    }
+*/
+  ]
+}

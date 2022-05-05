@@ -45,63 +45,63 @@
     {
       "id":1,
       "name_category": "NEO",
-      "title":"Neo01",
+      "title":"CODE:NEO-01",
       "image":"https://ia601502.us.archive.org/24/items/neowallpaper/brawlfans001.jpg",
       "coin":350
     },
     {
       "id":2,
       "name_category": "NEO",
-      "title":"Neo01",
+      "title":"CODE:NEO-02",
       "image":"https://ia601502.us.archive.org/24/items/neowallpaper/brawlfans002.jpg",
       "coin":150
     },
     {
       "id":3,
       "name_category": "NEO",
-      "title":"Neo01",
+      "title":"CODE:NEO-03",
       "image":"https://ia601502.us.archive.org/24/items/neowallpaper/brawlfans003.jpg",
       "coin":250
     },
     {
       "id":4,
       "name_category": "NEO",
-      "title":"Neo01",
+      "title":"CODE:NEO-04",
       "image":"https://ia601502.us.archive.org/24/items/neowallpaper/brawlfans004.jpg",
       "coin":250
     },
     {
-      "id":1,
+      "id":5,
       "name_category": "NEO",
-      "title":"Neo01",
+      "title":"CODE:NEO-05",
       "image":"https://ia601502.us.archive.org/24/items/neowallpaper/brawlfans005.jpg",
       "coin":100
     },
     {
-      "id":1,
+      "id":6,
       "name_category": "NEO",
-      "title":"Neo01",
+      "title":"CODE:NEO-06",
       "image":"https://ia601502.us.archive.org/24/items/neowallpaper/brawlfans006.jpg",
       "coin":300
     },
     {
-      "id":1,
+      "id":7,
       "name_category": "NEO",
-      "title":"Neo01",
+      "title":"CODE:NEO-07",
       "image":"https://ia601502.us.archive.org/24/items/neowallpaper/brawlfans007.jpg",
       "coin":200
     },
     {
-      "id":1,
+      "id":8,
       "name_category": "NEO",
-      "title":"Neo01",
+      "title":"CODE:NEO-08",
       "image":"https://ia601502.us.archive.org/24/items/neowallpaper/brawlfans008.jpg",
       "coin":150
     },
     {
-      "id":1,
+      "id":9,
       "name_category": "NEO",
-      "title":"Neo01",
+      "title":"CODE:NEO-09",
       "image":"https://ia601502.us.archive.org/24/items/neowallpaper/brawlfans009.jpg",
       "coin":1500
     }

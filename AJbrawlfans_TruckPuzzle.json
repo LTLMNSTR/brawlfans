@@ -1,0 +1,144 @@
+{
+"Ads":
+  [
+    {
+      "status_redirect":"0",
+      "link_redirect":"https://",
+      "admob_inter":"",
+      "admob_banner":"",
+      "admob_open_ads":"",
+      "select_ads":"UNITY",
+      "interval":2,
+      "unityID":"4804773",
+      "unity_banner":"Banner_Android",
+      "unity_inter":"Interstitial_Android",
+      "startappid":"",
+      "kidoz_pub_id":"",
+      "kidoz_token":""
+    }
+  ],
+ 
+  "Data":
+  [
+    {
+      "title":"Truck Puzzle 1",
+      "image":"https://ia902506.us.archive.org/24/items/truckpuzzle/cark1.jpg"
+    },
+    {
+      "title":"Truck Puzzle 2",
+      "image":"https://ia902506.us.archive.org/24/items/truckpuzzle/cark2.jpg"
+    },
+    {
+      "title":"Truck Puzzle 3",
+      "image":"https://ia902506.us.archive.org/24/items/truckpuzzle/cark3.jpg"
+    },
+    {
+      "title":"Truck Puzzle 4",
+      "image":"https://ia902506.us.archive.org/24/items/truckpuzzle/cark4.jpg"
+    },
+    {
+      "title":"Truck Puzzle 5",
+      "image":"https://ia902506.us.archive.org/24/items/truckpuzzle/cark5.jpg"
+    },
+    {
+      "title":"Truck Puzzle 6",
+      "image":"https://ia902506.us.archive.org/24/items/truckpuzzle/cark6.jpg"
+    },
+    {
+      "title":"Truck Puzzle 7",
+      "image":"https://ia902506.us.archive.org/24/items/truckpuzzle/cark7.jpg"
+    },
+    {
+      "title":"Truck Puzzle 8",
+      "image":"https://ia902506.us.archive.org/24/items/truckpuzzle/cark8.jpg"
+    },
+    {
+      "title":"Truck Puzzle 9",
+      "image":"https://ia902506.us.archive.org/24/items/truckpuzzle/cark9.jpg"
+    },
+    {
+      "title":"Truck Puzzle 10",
+      "image":"https://ia902506.us.archive.org/24/items/truckpuzzle/cark10.jpg"
+    },
+    {
+      "title":"Truck Puzzle 11",
+      "image":"https://ia902506.us.archive.org/24/items/truckpuzzle/cark11.jpg"
+    },
+    {
+      "title":"Truck Puzzle 12",
+      "image":"https://ia902506.us.archive.org/24/items/truckpuzzle/cark12.jpg"
+    },
+    {
+      "title":"Truck Puzzle 13",
+      "image":"https://ia902506.us.archive.org/24/items/truckpuzzle/cark13.jpg"
+    },
+    {
+      "title":"Truck Puzzle 14",
+      "image":"https://ia902506.us.archive.org/24/items/truckpuzzle/cark14.jpg"
+    },
+    {
+      "title":"Truck Puzzle 15",
+      "image":"https://ia902506.us.archive.org/24/items/truckpuzzle/cark15.jpg"
+    },
+    {
+      "title":"Truck Puzzle 16",
+      "image":"https://ia902506.us.archive.org/24/items/truckpuzzle/cark16.jpg"
+    },
+    {
+      "title":"Truck Puzzle 17",
+      "image":"https://ia902506.us.archive.org/24/items/truckpuzzle/cark17.jpg"
+    },
+    {
+      "title":"Truck Puzzle 18",
+      "image":"https://ia902506.us.archive.org/24/items/truckpuzzle/cark18.jpg"
+    },
+    {
+      "title":"Truck Puzzle 19",
+      "image":"https://ia902506.us.archive.org/24/items/truckpuzzle/cark19.jpg"
+    },
+    {
+      "title":"Truck Puzzle 20",
+      "image":"https://ia902506.us.archive.org/24/items/truckpuzzle/cark20.jpg"  
+    },
+    {
+      "title":"Truck Puzzle 21",
+      "image":"https://ia902506.us.archive.org/24/items/truckpuzzle/cark21.jpg"
+    },
+    {
+      "title":"Truck Puzzle 22",
+      "image":"https://ia902506.us.archive.org/24/items/truckpuzzle/cark22.jpg"
+    },
+    {
+      "title":"Truck Puzzle 23",
+      "image":"https://ia902506.us.archive.org/24/items/truckpuzzle/cark23.jpg"
+    },
+    {
+      "title":"Truck Puzzle 24",
+      "image":"https://ia902506.us.archive.org/24/items/truckpuzzle/cark24.jpg"
+    },
+    {
+      "title":"Truck Puzzle 25",
+      "image":"https://ia902506.us.archive.org/24/items/truckpuzzle/cark25.jpg"
+    },
+    {
+      "title":"Truck Puzzle 26",
+      "image":"https://ia902506.us.archive.org/24/items/truckpuzzle/cark26.jpg"
+    },
+    {
+      "title":"Truck Puzzle 27",
+      "image":"https://ia902506.us.archive.org/24/items/truckpuzzle/cark27.jpg"
+    },
+    {
+      "title":"Truck Puzzle 28",
+      "image":"https://ia902506.us.archive.org/24/items/truckpuzzle/cark28.jpg"
+    },
+    {
+      "title":"Truck Puzzle 29",
+      "image":"https://ia902506.us.archive.org/24/items/truckpuzzle/cark29.jpg"
+    },
+    {
+      "title":"Truck Puzzle 30",
+      "image":"https://ia902506.us.archive.org/24/items/truckpuzzle/cark30.jpg"  
+    }
+  ]
+}

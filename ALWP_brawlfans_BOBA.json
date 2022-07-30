@@ -1,0 +1,287 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-4510307451291410/1884698550",
+      "main_ads_intertitial":"ca-app-pub-4510307451291410/1884698550",
+      "backup_ads_banner":"ea8300346619ba4b",
+      "backup_ads_intertitial":"8873f07269af87a4",
+      "interval_intertitial": 2,
+      "initialize_sdk":"ca-app-pub-4510307451291410~8946313812",
+      "initialize_sdk_backup_ads":"inN7BceTpUoEsTiRT9mZUW-4Wbty5zRmF-Uz6tKDTL-Cg3QfRCZ--W3hU2f0C9ouBHyhXqAIXT_BRnGCE0WdTz",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "New",
+      "wallpaper_url": "category/new.png"
+    },
+    {
+      "name_category": "Best",
+      "wallpaper_url": "category/best.png"
+    },
+    {
+      "name_category": "Favorite",
+      "wallpaper_url": "category/favorite.png"
+    },
+    {
+      "name_category": "Trending",
+      "wallpaper_url": "category/trending.png"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": 51,
+      "name_category": "New",
+      "wallpaper_name": "Live Wallpaper 1",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601401.us.archive.org/13/items/bobaapps/brawlfansinb%20%281%29 (1).mp4"
+    },
+    {
+      "id": 52,
+      "name_category": "Best",
+      "wallpaper_name": "Live Wallpaper 2",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601401.us.archive.org/13/items/bobaapps/brawlfansinb%20%281%29 (2).mp4"
+    },
+    {
+      "id": 53,
+      "name_category": "Favorite",
+      "wallpaper_name": "Live Wallpaper 3",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601401.us.archive.org/13/items/bobaapps/brawlfansinb%20%281%29 (3).mp4"
+    },
+    {
+      "id": 54,
+      "name_category": "Trending",
+      "wallpaper_name": "Live Wallpaper 4",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601401.us.archive.org/13/items/bobaapps/brawlfansinb%20%281%29 (4).mp4"
+    },
+    {
+      "id": 55,
+      "name_category": "New",
+      "wallpaper_name": "Live Wallpaper 5",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601401.us.archive.org/13/items/bobaapps/brawlfansinb%20%281%29 (5).mp4"
+    },
+    {
+      "id": 56,
+      "name_category": "Best",
+      "wallpaper_name": "Live Wallpaper 6",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601401.us.archive.org/13/items/bobaapps/brawlfansinb%20%281%29 (6).mp4"
+    },
+    {
+      "id": 57,
+      "name_category": "Favorite",
+      "wallpaper_name": "Live Wallpaper 7",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601401.us.archive.org/13/items/bobaapps/brawlfansinb%20%281%29 (7).mp4"
+    },
+    {
+      "id": 58,
+      "name_category": "Trending",
+      "wallpaper_name": "Live Wallpaper 8",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601401.us.archive.org/13/items/bobaapps/brawlfansinb%20%281%29 (8).mp4"
+    },
+    {
+      "id": 59,
+      "name_category": "New",
+      "wallpaper_name": "Live Wallpaper 9",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601401.us.archive.org/13/items/bobaapps/brawlfansinb%20%281%29 (9).mp4"
+    },
+    {
+      "id": 60,
+      "name_category": "Best",
+      "wallpaper_name": "Live Wallpaper 10",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601401.us.archive.org/13/items/bobaapps/brawlfansinb%20%281%29 (10).mp4"
+    },
+    {
+      "id": 61,
+      "name_category": "Favorite",
+      "wallpaper_name": "Live Wallpaper 11",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601401.us.archive.org/13/items/bobaapps/brawlfansinb%20%281%29 (11).mp4"
+    },
+    {
+      "id": 62,
+      "name_category": "Trending",
+      "wallpaper_name": "Live Wallpaper 12",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601401.us.archive.org/13/items/bobaapps/brawlfansinb%20%281%29 (12).mp4"
+    },
+    {
+      "id": 63,
+      "name_category": "New",
+      "wallpaper_name": "Live Wallpaper 13",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601401.us.archive.org/13/items/bobaapps/brawlfansinb%20%281%29 (13).mp4"
+    },
+    {
+      "id": 64,
+      "name_category": "Best",
+      "wallpaper_name": "Live Wallpaper 14",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601401.us.archive.org/13/items/bobaapps/brawlfansinb%20%281%29 (14).mp4"
+    },
+    {
+      "id": 65,
+      "name_category": "Favorite",
+      "wallpaper_name": "Live Wallpaper 15",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601401.us.archive.org/13/items/bobaapps/brawlfansinb%20%281%29 (15).mp4"
+    },
+    {
+      "id": 66,
+      "name_category": "Trending",
+      "wallpaper_name": "Live Wallpaper 16",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601401.us.archive.org/13/items/bobaapps/brawlfansinb%20%281%29 (16).mp4"
+    },
+    {
+      "id": 67,
+      "name_category": "New",
+      "wallpaper_name": "Live Wallpaper 17",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601401.us.archive.org/13/items/bobaapps/brawlfansinb%20%281%29 (17).mp4"
+    },
+    {
+      "id": 68,
+      "name_category": "Best",
+      "wallpaper_name": "Live Wallpaper 18",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601401.us.archive.org/13/items/bobaapps/brawlfansinb%20%281%29 (18).mp4"
+    },
+    {
+      "id": 69,
+      "name_category": "Favorite",
+      "wallpaper_name": "Live Wallpaper 19",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601401.us.archive.org/13/items/bobaapps/brawlfansinb%20%281%29 (19).mp4"
+    },
+    {
+      "id": 70,
+      "name_category": "Trending",
+      "wallpaper_name": "Live Wallpaper 20",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601401.us.archive.org/13/items/bobaapps/brawlfansinb%20%281%29 (20).mp4"
+    },
+    {
+      "id": 71,
+      "name_category": "New",
+      "wallpaper_name": "Live Wallpaper 21",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601401.us.archive.org/13/items/bobaapps/brawlfansinb%20%281%29 (21).mp4"
+    },
+    {
+      "id": 72,
+      "name_category": "Best",
+      "wallpaper_name": "Live Wallpaper 22",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601401.us.archive.org/13/items/bobaapps/brawlfansinb%20%281%29 (22).mp4"
+    },
+    {
+      "id": 73,
+      "name_category": "Favorite",
+      "wallpaper_name": "Live Wallpaper 23",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601401.us.archive.org/13/items/bobaapps/brawlfansinb%20%281%29 (23).mp4"
+    },
+    {
+      "id": 74,
+      "name_category": "Trending",
+      "wallpaper_name": "Live Wallpaper 24",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601401.us.archive.org/13/items/bobaapps/brawlfansinb%20%281%29 (24).mp4"
+    },
+    {
+      "id": 75,
+      "name_category": "New",
+      "wallpaper_name": "Live Wallpaper 25",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601401.us.archive.org/13/items/bobaapps/brawlfansinb%20%281%29 (25).mp4"
+    },
+    {
+      "id": 76,
+      "name_category": "Best",
+      "wallpaper_name": "Live Wallpaper 26",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601401.us.archive.org/13/items/bobaapps/brawlfansinb%20%281%29 (26).mp4"
+    },
+    {
+      "id": 77,
+      "name_category": "Favorite",
+      "wallpaper_name": "Live Wallpaper 27",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601401.us.archive.org/13/items/bobaapps/brawlfansinb%20%281%29 (27).mp4"
+    },
+    {
+      "id": 78,
+      "name_category": "Trending",
+      "wallpaper_name": "Live Wallpaper 28",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601401.us.archive.org/13/items/bobaapps/brawlfansinb%20%281%29 (28).mp4"
+    },
+    {
+      "id": 79,
+      "name_category": "New",
+      "wallpaper_name": "Live Wallpaper 29",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601401.us.archive.org/13/items/bobaapps/brawlfansinb%20%281%29 (29).mp4"
+    },
+    {
+      "id": 80,
+      "name_category": "Best",
+      "wallpaper_name": "Live Wallpaper 30",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601401.us.archive.org/13/items/bobaapps/brawlfansinb%20%281%29 (30).mp4"
+    },
+    {
+      "id": 81,
+      "name_category": "Favorite",
+      "wallpaper_name": "Live Wallpaper 31",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601401.us.archive.org/13/items/bobaapps/brawlfansinb%20%281%29 (31).mp4"
+    },
+    {
+      "id": 82,
+      "name_category": "Trending",
+      "wallpaper_name": "Live Wallpaper 32",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601401.us.archive.org/13/items/bobaapps/brawlfansinb%20%281%29 (32).mp4"
+    },
+    {
+      "id": 83,
+      "name_category": "New",
+      "wallpaper_name": "Live Wallpaper 33",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601401.us.archive.org/13/items/bobaapps/brawlfansinb%20%281%29 (33).mp4"
+    },
+    {
+      "id": 84,
+      "name_category": "Best",
+      "wallpaper_name": "Live Wallpaper 34",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601401.us.archive.org/13/items/bobaapps/brawlfansinb%20%281%29 (34).mp4"
+    },
+    {
+      "id": 85,
+      "name_category": "Favorite",
+      "wallpaper_name": "Live Wallpaper 35",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia601401.us.archive.org/13/items/bobaapps/brawlfansinb%20%281%29 (35).mp4"
+    }
+  ]
+}

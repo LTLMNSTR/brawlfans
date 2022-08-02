@@ -1,0 +1,336 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-4510307451291410/1320208884",
+      "main_ads_intertitial":"ca-app-pub-4510307451291410/1320208884",
+      "backup_ads_banner":"d8917de2e4c1a8d4",
+      "backup_ads_intertitial":"3eac21af47a4804d",
+      "interval_intertitial": 2,
+      "initialize_sdk":"ca-app-pub-4510307451291410~7885617234",
+      "initialize_sdk_backup_ads":"inN7BceTpUoEsTiRT9mZUW-4Wbty5zRmF-Uz6tKDTL-Cg3QfRCZ--W3hU2f0C9ouBHyhXqAIXT_BRnGCE0WdTz",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "New",
+      "wallpaper_url": "category/new.png"
+    },
+    {
+      "name_category": "Best",
+      "wallpaper_url": "category/best.png"
+    },
+    {
+      "name_category": "Favorite",
+      "wallpaper_url": "category/favorite.png"
+    },
+    {
+      "name_category": "Trending",
+      "wallpaper_url": "category/trending.png"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": 51,
+      "name_category": "New",
+      "wallpaper_name": "Live Wallpaper 1",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia902500.us.archive.org/24/items/dekubnha/brawlfansinb (1).mp4"
+    },
+    {
+      "id": 52,
+      "name_category": "Best",
+      "wallpaper_name": "Live Wallpaper 2",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia902500.us.archive.org/24/items/dekubnha/brawlfansinb (2).mp4"
+    },
+    {
+      "id": 53,
+      "name_category": "Favorite",
+      "wallpaper_name": "Live Wallpaper 3",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia902500.us.archive.org/24/items/dekubnha/brawlfansinb (3).mp4"
+    },
+    {
+      "id": 54,
+      "name_category": "Trending",
+      "wallpaper_name": "Live Wallpaper 4",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia902500.us.archive.org/24/items/dekubnha/brawlfansinb (4).mp4"
+    },
+    {
+      "id": 55,
+      "name_category": "New",
+      "wallpaper_name": "Live Wallpaper 5",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia902500.us.archive.org/24/items/dekubnha/brawlfansinb (5).mp4"
+    },
+    {
+      "id": 56,
+      "name_category": "Best",
+      "wallpaper_name": "Live Wallpaper 6",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia902500.us.archive.org/24/items/dekubnha/brawlfansinb (6).mp4"
+    },
+    {
+      "id": 57,
+      "name_category": "Favorite",
+      "wallpaper_name": "Live Wallpaper 7",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia902500.us.archive.org/24/items/dekubnha/brawlfansinb (7).mp4"
+    },
+    {
+      "id": 58,
+      "name_category": "Trending",
+      "wallpaper_name": "Live Wallpaper 8",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia902500.us.archive.org/24/items/dekubnha/brawlfansinb (8).mp4"
+    },
+    {
+      "id": 59,
+      "name_category": "New",
+      "wallpaper_name": "Live Wallpaper 9",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia902500.us.archive.org/24/items/dekubnha/brawlfansinb (9).mp4"
+    },
+    {
+      "id": 60,
+      "name_category": "Best",
+      "wallpaper_name": "Live Wallpaper 10",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia902500.us.archive.org/24/items/dekubnha/brawlfansinb (10).mp4"
+    },
+    {
+      "id": 61,
+      "name_category": "Favorite",
+      "wallpaper_name": "Live Wallpaper 11",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia902500.us.archive.org/24/items/dekubnha/brawlfansinb (11).mp4"
+    },
+    {
+      "id": 62,
+      "name_category": "Trending",
+      "wallpaper_name": "Live Wallpaper 12",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia902500.us.archive.org/24/items/dekubnha/brawlfansinb (12).mp4"
+    },
+    {
+      "id": 63,
+      "name_category": "New",
+      "wallpaper_name": "Live Wallpaper 13",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia902500.us.archive.org/24/items/dekubnha/brawlfansinb (13).mp4"
+    },
+    {
+      "id": 64,
+      "name_category": "Best",
+      "wallpaper_name": "Live Wallpaper 14",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia902500.us.archive.org/24/items/dekubnha/brawlfansinb (14).mp4"
+    },
+    {
+      "id": 65,
+      "name_category": "Favorite",
+      "wallpaper_name": "Live Wallpaper 15",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia902500.us.archive.org/24/items/dekubnha/brawlfansinb (15).mp4"
+    },
+    {
+      "id": 66,
+      "name_category": "Trending",
+      "wallpaper_name": "Live Wallpaper 16",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia902500.us.archive.org/24/items/dekubnha/brawlfansinb (16).mp4"
+    },
+    {
+      "id": 67,
+      "name_category": "New",
+      "wallpaper_name": "Live Wallpaper 17",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia902500.us.archive.org/24/items/dekubnha/brawlfansinb (17).mp4"
+    },
+    {
+      "id": 68,
+      "name_category": "Best",
+      "wallpaper_name": "Live Wallpaper 18",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia902500.us.archive.org/24/items/dekubnha/brawlfansinb (18).mp4"
+    },
+    {
+      "id": 69,
+      "name_category": "Favorite",
+      "wallpaper_name": "Live Wallpaper 19",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia902500.us.archive.org/24/items/dekubnha/brawlfansinb (19).mp4"
+    },
+    {
+      "id": 70,
+      "name_category": "Trending",
+      "wallpaper_name": "Live Wallpaper 20",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia902500.us.archive.org/24/items/dekubnha/brawlfansinb (20).mp4"
+    },
+    {
+      "id": 71,
+      "name_category": "New",
+      "wallpaper_name": "Live Wallpaper 21",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia902500.us.archive.org/24/items/dekubnha/brawlfansinb (21).mp4"
+    },
+    {
+      "id": 72,
+      "name_category": "Best",
+      "wallpaper_name": "Live Wallpaper 22",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia902500.us.archive.org/24/items/dekubnha/brawlfansinb (22).mp4"
+    },
+    {
+      "id": 73,
+      "name_category": "Favorite",
+      "wallpaper_name": "Live Wallpaper 23",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia902500.us.archive.org/24/items/dekubnha/brawlfansinb (23).mp4"
+    },
+    {
+      "id": 74,
+      "name_category": "Trending",
+      "wallpaper_name": "Live Wallpaper 24",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia902500.us.archive.org/24/items/dekubnha/brawlfansinb (24).mp4"
+    },
+    {
+      "id": 75,
+      "name_category": "New",
+      "wallpaper_name": "Live Wallpaper 25",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia902500.us.archive.org/24/items/dekubnha/brawlfansinb (25).mp4"
+    },
+    {
+      "id": 76,
+      "name_category": "Best",
+      "wallpaper_name": "Live Wallpaper 26",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia902500.us.archive.org/24/items/dekubnha/brawlfansinb (26).mp4"
+    },
+    {
+      "id": 77,
+      "name_category": "Favorite",
+      "wallpaper_name": "Live Wallpaper 27",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia902500.us.archive.org/24/items/dekubnha/brawlfansinb (27).mp4"
+    },
+    {
+      "id": 78,
+      "name_category": "Trending",
+      "wallpaper_name": "Live Wallpaper 28",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia902500.us.archive.org/24/items/dekubnha/brawlfansinb (28).mp4"
+    },
+    {
+      "id": 79,
+      "name_category": "New",
+      "wallpaper_name": "Live Wallpaper 29",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia902500.us.archive.org/24/items/dekubnha/brawlfansinb (29).mp4"
+    },
+    {
+      "id": 80,
+      "name_category": "Best",
+      "wallpaper_name": "Live Wallpaper 30",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia902500.us.archive.org/24/items/dekubnha/brawlfansinb (30).mp4"
+    },
+    {
+      "id": 81,
+      "name_category": "Favorite",
+      "wallpaper_name": "Live Wallpaper 31",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia902500.us.archive.org/24/items/dekubnha/brawlfansinb (31).mp4"
+    },
+    {
+      "id": 82,
+      "name_category": "Trending",
+      "wallpaper_name": "Live Wallpaper 32",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia902500.us.archive.org/24/items/dekubnha/brawlfansinb (32).mp4"
+    },
+    {
+      "id": 83,
+      "name_category": "New",
+      "wallpaper_name": "Live Wallpaper 33",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia902500.us.archive.org/24/items/dekubnha/brawlfansinb (33).mp4"
+    },
+    {
+      "id": 84,
+      "name_category": "Best",
+      "wallpaper_name": "Live Wallpaper 34",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia902500.us.archive.org/24/items/dekubnha/brawlfansinb (34).mp4"
+    },
+    {
+      "id": 85,
+      "name_category": "Favorite",
+      "wallpaper_name": "Live Wallpaper 35",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia902500.us.archive.org/24/items/dekubnha/brawlfansinb (35).mp4"
+    },
+    {
+      "id": 86,
+      "name_category": "Trending",
+      "wallpaper_name": "Live Wallpaper 36",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia902500.us.archive.org/24/items/dekubnha/brawlfansinb (36).mp4"
+    },
+    {
+      "id": 87,
+      "name_category": "New",
+      "wallpaper_name": "Live Wallpaper 37",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia902500.us.archive.org/24/items/dekubnha/brawlfansinb (37).mp4"
+    },
+    {
+      "id": 88,
+      "name_category": "Best",
+      "wallpaper_name": "Live Wallpaper 38",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia902500.us.archive.org/24/items/dekubnha/brawlfansinb (38).mp4"
+    },
+    {
+      "id": 89,
+      "name_category": "Favorite",
+      "wallpaper_name": "Live Wallpaper 39",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia902500.us.archive.org/24/items/dekubnha/brawlfansinb (39).mp4"
+    },
+    {
+      "id": 90,
+      "name_category": "Trending",
+      "wallpaper_name": "Live Wallpaper 40",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia902500.us.archive.org/24/items/dekubnha/brawlfansinb (40).mp4"
+    },
+    {
+      "id": 91,
+      "name_category": "New",
+      "wallpaper_name": "Live Wallpaper 41",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia902500.us.archive.org/24/items/dekubnha/brawlfansinb (41).mp4"
+    },
+    {
+      "id": 92,
+      "name_category": "Best",
+      "wallpaper_name": "Live Wallpaper 42",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://ia902500.us.archive.org/24/items/dekubnha/brawlfansinb (42).mp4"
+    }
+  ]
+}

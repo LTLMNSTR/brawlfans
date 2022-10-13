@@ -1,0 +1,129 @@
+{
+   "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-4510307451291410/6651388540",
+      "main_ads_intertitial":"ca-app-pub-4510307451291410/4619507259",
+      "backup_ads_banner":"cafb9d0fefaf5fc0",
+      "backup_ads_intertitial":"e65118b0afd39a70",
+      "interval_intertitial": 2,
+      "initialize_sdk":"ca-app-pub-4510307451291410~5804596414",
+      "initialize_sdk_backup_ads":"inN7BceTpUoEsTiRT9mZUW-4Wbty5zRmF-Uz6tKDTL-Cg3QfRCZ--W3hU2f0C9ouBHyhXqAIXT_BRnGCE0WdTz",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "Theme": [
+    {
+      "url_theme": "https://ia601409.us.archive.org/10/items/shinobukocho/brawlfans (1).png"
+    }, 
+     {
+      "url_theme": "https://ia601409.us.archive.org/10/items/shinobukocho/brawlfans (2).png"
+    },
+     {
+      "url_theme": "https://ia601409.us.archive.org/10/items/shinobukocho/brawlfans (3).png"
+    },
+     {
+      "url_theme": "https://ia601409.us.archive.org/10/items/shinobukocho/brawlfans (4).png"
+    },
+     {
+      "url_theme": "https://ia601409.us.archive.org/10/items/shinobukocho/brawlfans (5).png"
+    }, 
+    {
+      "url_theme": "https://ia601409.us.archive.org/10/items/shinobukocho/brawlfans (6).png"
+    },
+     {
+      "url_theme": "https://ia601409.us.archive.org/10/items/shinobukocho/brawlfans (7).png"
+    },
+     {
+      "url_theme": "https://ia601409.us.archive.org/10/items/shinobukocho/brawlfans (8).png"
+    },
+     {
+      "url_theme": "https://ia601409.us.archive.org/10/items/shinobukocho/brawlfans (9).png"
+    },
+    {
+      "url_theme": "https://ia601409.us.archive.org/10/items/shinobukocho/brawlfans (10).png"
+    },
+    {
+      "url_theme": "https://ia601409.us.archive.org/10/items/shinobukocho/brawlfans (11).png"
+    }, 
+     {
+      "url_theme": "https://ia601409.us.archive.org/10/items/shinobukocho/brawlfans (12).png"
+    },
+     {
+      "url_theme": "https://ia601409.us.archive.org/10/items/shinobukocho/brawlfans (13).png"
+    },
+     {
+      "url_theme": "https://ia601409.us.archive.org/10/items/shinobukocho/brawlfans (14).png"
+    },
+     {
+      "url_theme": "https://ia601409.us.archive.org/10/items/shinobukocho/brawlfans (15).png"
+    }, 
+    {
+      "url_theme": "https://ia601409.us.archive.org/10/items/shinobukocho/brawlfans (16).png"
+    },
+     {
+      "url_theme": "https://ia601409.us.archive.org/10/items/shinobukocho/brawlfans (17).png"
+    },
+     {
+      "url_theme": "https://ia601409.us.archive.org/10/items/shinobukocho/brawlfans (18).png"
+    },
+     {
+      "url_theme": "https://ia601409.us.archive.org/10/items/shinobukocho/brawlfans (19).png"
+    },
+    {
+      "url_theme": "https://ia601409.us.archive.org/10/items/shinobukocho/brawlfans (20).png"
+    },
+    {
+      "url_theme": "https://ia601409.us.archive.org/10/items/shinobukocho/brawlfans (21).png"
+    }, 
+     {
+      "url_theme": "https://ia601409.us.archive.org/10/items/shinobukocho/brawlfans (22).png"
+    },
+     {
+      "url_theme": "https://ia601409.us.archive.org/10/items/shinobukocho/brawlfans (23).png"
+    },
+     {
+      "url_theme": "https://ia601409.us.archive.org/10/items/shinobukocho/brawlfans (24).png"
+    },
+     {
+      "url_theme": "https://ia601409.us.archive.org/10/items/shinobukocho/brawlfans (25).png"
+    }, 
+    {
+      "url_theme": "https://ia601409.us.archive.org/10/items/shinobukocho/brawlfans (26).png"
+    },
+     {
+      "url_theme": "https://ia601409.us.archive.org/10/items/shinobukocho/brawlfans (27).png"
+    },
+     {
+      "url_theme": "https://ia601409.us.archive.org/10/items/shinobukocho/brawlfans (28).png"
+    },
+     {
+      "url_theme": "https://ia601409.us.archive.org/10/items/shinobukocho/brawlfans (29).png"
+    },
+    {
+      "url_theme": "https://ia601409.us.archive.org/10/items/shinobukocho/brawlfans (30).png"
+    },
+    {
+      "url_theme": "https://ia601409.us.archive.org/10/items/shinobukocho/brawlfans (31).png"
+    }, 
+     {
+      "url_theme": "https://ia601409.us.archive.org/10/items/shinobukocho/brawlfans (32).png"
+    },
+     {
+      "url_theme": "https://ia601409.us.archive.org/10/items/shinobukocho/brawlfans (33).png"
+    },
+     {
+      "url_theme": "https://ia601409.us.archive.org/10/items/shinobukocho/brawlfans (34).png"
+    },
+     {
+      "url_theme": "https://ia601409.us.archive.org/10/items/shinobukocho/brawlfans (35).png"
+    }
+  ]
+}

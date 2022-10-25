@@ -1,0 +1,240 @@
+{
+   "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-4510307451291410/3629382267",
+      "main_ads_intertitial":"ca-app-pub-4510307451291410/3637901370",
+      "backup_ads_banner":"9b54cd6e745725f2",
+      "backup_ads_intertitial":"4b5512f0838d0dfb",
+      "interval_intertitial": 2,
+      "initialize_sdk":"ca-app-pub-4510307451291410~6821633760",
+      "initialize_sdk_backup_ads":"inN7BceTpUoEsTiRT9mZUW-4Wbty5zRmF-Uz6tKDTL-Cg3QfRCZ--W3hU2f0C9ouBHyhXqAIXT_BRnGCE0WdTz",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "Theme": [
+    {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (1).png"
+    }, 
+     {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (2).png"
+    },
+     {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (3).png"
+    },
+     {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (4).png"
+    },
+     {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (5).png"
+    }, 
+    {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (6).png"
+    },
+     {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (7).png"
+    },
+     {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (8).png"
+    },
+     {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (9).png"
+    },
+    {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (10).png"
+    },
+    {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (11).png"
+    }, 
+     {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (12).png"
+    },
+     {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (13).png"
+    },
+     {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (14).png"
+    },
+     {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (15).png"
+    }, 
+    {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (16).png"
+    },
+     {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (17).png"
+    },
+     {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (18).png"
+    },
+     {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (19).png"
+    },
+    {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (20).png"
+    },
+    {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (21).png"
+    }, 
+     {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (22).png"
+    },
+     {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (23).png"
+    },
+     {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (24).png"
+    },
+     {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (25).png"
+    }, 
+    {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (26).png"
+    },
+     {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (27).png"
+    },
+     {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (28).png"
+    },
+     {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (29).png"
+    },
+    {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (30).png"
+    },
+    {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (31).png"
+    }, 
+     {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (32).png"
+    },
+     {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (33).png"
+    },
+     {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (34).png"
+    },
+     {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (35).png"
+    }, 
+    {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (36).png"
+    },
+     {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (37).png"
+    },
+     {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (38).png"
+    },
+     {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (39).png"
+    },
+    {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (40).png"
+    },
+    {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (41).png"
+    }, 
+     {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (42).png"
+    },
+     {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (43).png"
+    },
+     {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (44).png"
+    },
+     {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (45).png"
+    }, 
+    {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (46).png"
+    },
+     {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (47).png"
+    },
+     {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (48).png"
+    },
+     {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (49).png"
+    },
+    {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (50).png"
+    },
+    {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (51).png"
+    }, 
+     {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (52).png"
+    },
+     {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (53).png"
+    },
+     {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (54).png"
+    },
+     {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (55).png"
+    }, 
+    {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (56).png"
+    },
+     {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (57).png"
+    },
+     {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (58).png"
+    },
+     {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (59).png"
+    },
+    {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (60).png"
+    },
+    {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (61).png"
+    }, 
+     {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (62).png"
+    },
+     {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (63).png"
+    },
+     {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (64).png"
+    },
+     {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (65).png"
+    }, 
+    {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (66).png"
+    },
+     {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (67).png"
+    },
+     {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (68).png"
+    },
+     {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (69).png"
+    },
+    {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (70).png"
+    },
+     {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (71).png"
+    },
+    {
+      "url_theme": "https://ia904706.us.archive.org/18/items/bluelock/brawlfans (72).png"
+    }
+  ]
+}

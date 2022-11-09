@@ -1,0 +1,240 @@
+{
+   "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-4510307451291410/8174012375",
+      "main_ads_intertitial":"ca-app-pub-4510307451291410/2921685696",
+      "backup_ads_banner":"47343f4e54bd6ed6",
+      "backup_ads_intertitial":"fe0b1118112dc702",
+      "interval_intertitial": 2,
+      "initialize_sdk":"ca-app-pub-4510307451291410~4426339051",
+      "initialize_sdk_backup_ads":"inN7BceTpUoEsTiRT9mZUW-4Wbty5zRmF-Uz6tKDTL-Cg3QfRCZ--W3hU2f0C9ouBHyhXqAIXT_BRnGCE0WdTz",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "Theme": [
+    {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (1).png"
+    }, 
+     {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (2).png"
+    },
+     {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (3).png"
+    },
+     {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (4).png"
+    },
+     {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (5).png"
+    }, 
+    {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (6).png"
+    },
+     {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (7).png"
+    },
+     {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (8).png"
+    },
+     {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (9).png"
+    },
+    {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (10).png"
+    },
+    {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (11).png"
+    }, 
+     {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (12).png"
+    },
+     {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (13).png"
+    },
+     {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (14).png"
+    },
+     {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (15).png"
+    }, 
+    {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (16).png"
+    },
+     {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (17).png"
+    },
+     {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (18).png"
+    },
+     {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (19).png"
+    },
+    {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (20).png"
+    },
+    {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (21).png"
+    }, 
+     {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (22).png"
+    },
+     {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (23).png"
+    },
+     {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (24).png"
+    },
+     {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (25).png"
+    }, 
+    {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (26).png"
+    },
+     {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (27).png"
+    },
+     {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (28).png"
+    },
+     {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (29).png"
+    },
+    {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (30).png"
+    },
+    {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (31).png"
+    }, 
+     {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (32).png"
+    },
+     {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (33).png"
+    },
+     {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (34).png"
+    },
+     {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (35).png"
+    }, 
+    {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (36).png"
+    },
+     {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (37).png"
+    },
+     {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (38).png"
+    },
+     {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (39).png"
+    },
+    {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (40).png"
+    },
+    {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (41).png"
+    }, 
+     {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (42).png"
+    },
+     {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (43).png"
+    },
+     {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (44).png"
+    },
+     {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (45).png"
+    }, 
+    {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (46).png"
+    },
+     {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (47).png"
+    },
+     {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (48).png"
+    },
+     {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (49).png"
+    },
+    {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (50).png"
+    },
+    {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (51).png"
+    }, 
+     {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (52).png"
+    },
+     {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (53).png"
+    },
+     {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (54).png"
+    },
+     {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (55).png"
+    }, 
+    {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (56).png"
+    },
+     {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (57).png"
+    },
+     {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (58).png"
+    },
+     {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (59).png"
+    },
+    {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (60).png"
+    },
+    {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (61).png"
+    }, 
+     {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (62).png"
+    },
+     {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (63).png"
+    },
+     {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (64).png"
+    },
+     {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (65).png"
+    }, 
+    {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (66).png"
+    },
+     {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (67).png"
+    },
+     {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (68).png"
+    },
+     {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (69).png"
+    },
+    {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (70).png"
+    },
+     {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (71).png"
+    },
+    {
+      "url_theme": "https://ia904708.us.archive.org/32/items/akwave/brawlfans (72).png"
+    }
+  ]
+}

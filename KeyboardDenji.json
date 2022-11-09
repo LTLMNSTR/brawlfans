@@ -1,0 +1,240 @@
+{
+   "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-4510307451291410/1828095874",
+      "main_ads_intertitial":"ca-app-pub-4510307451291410/5684699962",
+      "backup_ads_banner":"9bc670736559af4e",
+      "backup_ads_intertitial":"5f43b1a0dbaa2c87",
+      "interval_intertitial": 2,
+      "initialize_sdk":"ca-app-pub-4510307451291410~1855165971",
+      "initialize_sdk_backup_ads":"inN7BceTpUoEsTiRT9mZUW-4Wbty5zRmF-Uz6tKDTL-Cg3QfRCZ--W3hU2f0C9ouBHyhXqAIXT_BRnGCE0WdTz",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "Theme": [
+    {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (1).png"
+    }, 
+     {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (2).png"
+    },
+     {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (3).png"
+    },
+     {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (4).png"
+    },
+     {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (5).png"
+    }, 
+    {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (6).png"
+    },
+     {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (7).png"
+    },
+     {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (8).png"
+    },
+     {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (9).png"
+    },
+    {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (10).png"
+    },
+    {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (11).png"
+    }, 
+     {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (12).png"
+    },
+     {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (13).png"
+    },
+     {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (14).png"
+    },
+     {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (15).png"
+    }, 
+    {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (16).png"
+    },
+     {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (17).png"
+    },
+     {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (18).png"
+    },
+     {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (19).png"
+    },
+    {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (20).png"
+    },
+    {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (21).png"
+    }, 
+     {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (22).png"
+    },
+     {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (23).png"
+    },
+     {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (24).png"
+    },
+     {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (25).png"
+    }, 
+    {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (26).png"
+    },
+     {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (27).png"
+    },
+     {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (28).png"
+    },
+     {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (29).png"
+    },
+    {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (30).png"
+    },
+    {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (31).png"
+    }, 
+     {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (32).png"
+    },
+     {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (33).png"
+    },
+     {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (34).png"
+    },
+     {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (35).png"
+    }, 
+    {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (36).png"
+    },
+     {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (37).png"
+    },
+     {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (38).png"
+    },
+     {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (39).png"
+    },
+    {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (40).png"
+    },
+    {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (41).png"
+    }, 
+     {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (42).png"
+    },
+     {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (43).png"
+    },
+     {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (44).png"
+    },
+     {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (45).png"
+    }, 
+    {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (46).png"
+    },
+     {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (47).png"
+    },
+     {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (48).png"
+    },
+     {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (49).png"
+    },
+    {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (50).png"
+    },
+    {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (51).png"
+    }, 
+     {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (52).png"
+    },
+     {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (53).png"
+    },
+     {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (54).png"
+    },
+     {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (55).png"
+    }, 
+    {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (56).png"
+    },
+     {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (57).png"
+    },
+     {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (58).png"
+    },
+     {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (59).png"
+    },
+    {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (60).png"
+    },
+    {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (61).png"
+    }, 
+     {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (62).png"
+    },
+     {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (63).png"
+    },
+     {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (64).png"
+    },
+     {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (65).png"
+    }, 
+    {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (66).png"
+    },
+     {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (67).png"
+    },
+     {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (68).png"
+    },
+     {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (69).png"
+    },
+    {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (70).png"
+    },
+     {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (71).png"
+    },
+    {
+      "url_theme": "https://ia601509.us.archive.org/24/items/akdenji/brawlfans (72).png"
+    }
+  ]
+}
